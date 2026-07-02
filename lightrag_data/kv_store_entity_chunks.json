@@ -1,0 +1,7409 @@
+{
+  "Commission": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab",
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-4d317a57f8826116be7899af7bef32dd",
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9",
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f",
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-2cddb0815e714f4234b0eb77a0886db3",
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e",
+      "chunk-3e2911d860a9f8426e67a536486d6752",
+      "chunk-bd5db792306630e07b4579263bafe09f",
+      "chunk-2d5febc258257152890296838762d806",
+      "chunk-8731e04e59e27f8bf0dad80e14b80dfa",
+      "chunk-b46993509f7f45efc7114ce53d7712a1",
+      "chunk-ef9991e58e018e79ec133e41dd155972",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa",
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-85e5d3aebe76250dd5161e123f94c06c",
+      "chunk-1594971bc99373dadcdc53ec98848241",
+      "chunk-4b23dceb665491f7cc28993744bf6190",
+      "chunk-3235bf9304fec9e624bfd76288a19b57"
+    ],
+    "count": 30,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "Commission"
+  },
+  "Article 51(1), point (a)": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab",
+      "chunk-1594971bc99373dadcdc53ec98848241"
+    ],
+    "count": 2,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "Article 51(1), point (a)"
+  },
+  "parameters of the model": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "parameters of the model"
+  },
+  "data set, for example measured through tokens": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "data set, for example measured through tokens"
+  },
+  "floating point operations": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "floating point operations"
+  },
+  "estimated cost of training": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "estimated cost of training"
+  },
+  "estimated time required for the training": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "estimated time required for the training"
+  },
+  "estimated energy consumption for the training": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "estimated energy consumption for the training"
+  },
+  "text to text (large language models)": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "text to text (large language models)"
+  },
+  "text to image": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "text to image"
+  },
+  "multi-modality": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "multi-modality"
+  },
+  "high-impact capabilities": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "high-impact capabilities"
+  },
+  "inputs and outputs": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "inputs and outputs"
+  },
+  "benchmarks and evaluations of capabilities": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "benchmarks and evaluations of capabilities"
+  },
+  "tasks without additional training": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "tasks without additional training"
+  },
+  "adaptability to learn new, distinct tasks": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "adaptability to learn new, distinct tasks"
+  },
+  "level of autonomy": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "level of autonomy"
+  },
+  "scalability": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "scalability"
+  },
+  "tools it has access to": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "tools it has access to"
+  },
+  "internal market": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "internal market"
+  },
+  "registered business users established in the Union": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "registered business users established in the Union"
+  },
+  "registered end-users": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "registered end-users"
+  },
+  "Union": {
+    "chunk_ids": [
+      "chunk-037b3133eed3c3d2ae1057711af7caab",
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a",
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 7,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "Union"
+  },
+  "Organisational Needs": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "Organisational Needs"
+  },
+  "Member State": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9",
+      "chunk-414727d1a6d237ecc9306035920d4685",
+      "chunk-2cddb0815e714f4234b0eb77a0886db3",
+      "chunk-3235bf9304fec9e624bfd76288a19b57"
+    ],
+    "count": 5,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "Member State"
+  },
+  "Notifying Authorities": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df"
+    ],
+    "count": 2,
+    "update_time": 1779828359,
+    "_id": "Notifying Authorities"
+  },
+  "Market Surveillance Authorities": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-49852a3ba29135f33f5a66d5530afe75",
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a",
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df"
+    ],
+    "count": 10,
+    "update_time": 1779828359,
+    "_id": "Market Surveillance Authorities"
+  },
+  "Single Point of Contact": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "Single Point of Contact"
+  },
+  "National Competent Authorities": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a",
+      "chunk-3e2911d860a9f8426e67a536486d6752",
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 7,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "National Competent Authorities"
+  },
+  "AI Technologies, Data and Data Computing": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "AI Technologies, Data and Data Computing"
+  },
+  "Personal Data Protection": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "Personal Data Protection"
+  },
+  "Cybersecurity": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879"
+    ],
+    "count": 1,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "Cybersecurity"
+  },
+  "Fundamental Rights": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-2d5febc258257152890296838762d806"
+    ],
+    "count": 3,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "Fundamental Rights"
+  },
+  "Health and Safety Risks": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2"
+    ],
+    "count": 2,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "Health and Safety Risks"
+  },
+  "European Data Protection Supervisor": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df",
+      "chunk-9d3918796c66f4ec90d4e54c0693276f",
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 8,
+    "create_time": 1779828334,
+    "update_time": 1779828334,
+    "_id": "European Data Protection Supervisor"
+  },
+  "Annex III": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-4d317a57f8826116be7899af7bef32dd",
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-3e2911d860a9f8426e67a536486d6752",
+      "chunk-2d5febc258257152890296838762d806",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902",
+      "chunk-79168f0d206aaba1ef1cc580415c53cf",
+      "chunk-85e5d3aebe76250dd5161e123f94c06c",
+      "chunk-1594971bc99373dadcdc53ec98848241"
+    ],
+    "count": 14,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Annex III"
+  },
+  "Annex VIII": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 2,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Annex VIII"
+  },
+  "AI Systems": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-eafdecc945c96231c70d9a52d9148ae9",
+      "chunk-33b3b690e83a48d4f90c85be3eebb646",
+      "chunk-8731e04e59e27f8bf0dad80e14b80dfa",
+      "chunk-b46993509f7f45efc7114ce53d7712a1",
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e",
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db"
+    ],
+    "count": 11,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "AI Systems"
+  },
+  "Post-Market Monitoring System": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-2d5febc258257152890296838762d806"
+    ],
+    "count": 2,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Post-Market Monitoring System"
+  },
+  "Annex IV": {
+    "chunk_ids": [
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879",
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902"
+    ],
+    "count": 5,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Annex IV"
+  },
+  "Providers": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75",
+      "chunk-4d317a57f8826116be7899af7bef32dd",
+      "chunk-6d534e37e8a91e087b0f7afd91260337",
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 4,
+    "update_time": 1779828358,
+    "_id": "Providers"
+  },
+  "High-Risk AI Systems": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75",
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-3e2911d860a9f8426e67a536486d6752",
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f",
+      "chunk-2d5febc258257152890296838762d806",
+      "chunk-8731e04e59e27f8bf0dad80e14b80dfa",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5",
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e",
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 11,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "High-Risk AI Systems"
+  },
+  "Notified Bodies": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902",
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 5,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Notified Bodies"
+  },
+  "EU Declaration of Conformity": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75",
+      "chunk-c5974c0c87096acad0b2aac605ef8802",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1"
+    ],
+    "count": 4,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "EU Declaration of Conformity"
+  },
+  "Technical Documentation": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75",
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-1653367cdfb434518d14a6c8c5b52df8",
+      "chunk-33b3b690e83a48d4f90c85be3eebb646",
+      "chunk-c5974c0c87096acad0b2aac605ef8802",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f",
+      "chunk-2bf04dc1138e594ddbe71572222dd4f3",
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1",
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879"
+    ],
+    "count": 12,
+    "update_time": 1779828350,
+    "_id": "Technical Documentation"
+  },
+  "Competent Authorities": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 2,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Competent Authorities"
+  },
+  "Union Law": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75",
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9",
+      "chunk-2d5febc258257152890296838762d806",
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783",
+      "chunk-0c328886326bda8019859ce49acc29cc"
+    ],
+    "count": 5,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Union Law"
+  },
+  "Official Languages of the Institutions of the Union": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75"
+    ],
+    "count": 1,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Official Languages of the Institutions of the Union"
+  },
+  "Article 47": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75"
+    ],
+    "count": 1,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Article 47"
+  },
+  "Article 78": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75",
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f",
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 5,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Article 78"
+  },
+  "Article 79": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75",
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 5,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Article 79"
+  },
+  "Article 8": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 2,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Article 8"
+  },
+  "Directive 2014/90/EU": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-20e3935f89fd12712570b2f2200d0cbd",
+      "chunk-846d247ae92c7dbe167abacc02bc54d4",
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 4,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Directive 2014/90/EU"
+  },
+  "Article 5": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-6d534e37e8a91e087b0f7afd91260337",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-ef9991e58e018e79ec133e41dd155972",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa",
+      "chunk-9d3918796c66f4ec90d4e54c0693276f",
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 8,
+    "create_time": 1779828335,
+    "update_time": 1779828335,
+    "_id": "Article 5"
+  },
+  "Directive (EU) 2016/797": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 2,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Directive (EU) 2016/797"
+  },
+  "Regulation (EU) 2018/858": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 2,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Regulation (EU) 2018/858"
+  },
+  "Article 17": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-2bf04dc1138e594ddbe71572222dd4f3"
+    ],
+    "count": 2,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Article 17"
+  },
+  "Regulation (EU) 2018/1139": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 2,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Regulation (EU) 2018/1139"
+  },
+  "Article 11": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 2,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Article 11"
+  },
+  "Regulation (EU) 2019/2144": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 2,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Regulation (EU) 2019/2144"
+  },
+  "Annex I": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-3e2911d860a9f8426e67a536486d6752",
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 5,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Annex I"
+  },
+  "Directive (EU) 2020/1828": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Directive (EU) 2020/1828"
+  },
+  "Artificial Intelligence Act": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Artificial Intelligence Act"
+  },
+  "Annex X": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Annex X"
+  },
+  "Article 53": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9",
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 4,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Article 53"
+  },
+  "Regulation (EU) 2024/1689": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Regulation (EU) 2024/1689"
+  },
+  "Article 113(3)": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Article 113(3)"
+  },
+  "Dependency Injection": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "Dependency Injection"
+  },
+  "AI system": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-4b23dceb665491f7cc28993744bf6190",
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 3,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "AI system"
+  },
+  "High-risk AI system": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "High-risk AI system"
+  },
+  "General-purpose AI model": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 2,
+    "create_time": 1779828336,
+    "update_time": 1779828336,
+    "_id": "General-purpose AI model"
+  },
+  "European Parliament": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 3,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "European Parliament"
+  },
+  "Council": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 3,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Council"
+  },
+  "Public Authorities": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-eafdecc945c96231c70d9a52d9148ae9",
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 4,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Public Authorities"
+  },
+  "Implementation Date": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Implementation Date"
+  },
+  "Delegation of Power": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Delegation of Power"
+  },
+  "Market Surveillance Authority": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-1653367cdfb434518d14a6c8c5b52df8",
+      "chunk-64f96fb4c623fd44d4b9931460dfb273",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-c5974c0c87096acad0b2aac605ef8802",
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5",
+      "chunk-79168f0d206aaba1ef1cc580415c53cf",
+      "chunk-85e5d3aebe76250dd5161e123f94c06c",
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8",
+      "chunk-3235bf9304fec9e624bfd76288a19b57",
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9"
+    ],
+    "count": 15,
+    "update_time": 1779828354,
+    "_id": "Market Surveillance Authority"
+  },
+  "Harmonised Standard": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 2,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Harmonised Standard"
+  },
+  "Common Specification": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 2,
+    "update_time": 1779828358,
+    "_id": "Common Specification"
+  },
+  "Training Data": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Training Data"
+  },
+  "Validation Data": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Validation Data"
+  },
+  "Validation Data Set": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Validation Data Set"
+  },
+  "Testing Data": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Testing Data"
+  },
+  "Input Data": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-64f96fb4c623fd44d4b9931460dfb273"
+    ],
+    "count": 2,
+    "update_time": 1779828352,
+    "_id": "Input Data"
+  },
+  "Biometric Data": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 2,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Biometric Data"
+  },
+  "Biometric Identification": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Biometric Identification"
+  },
+  "Biometric Verification": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Biometric Verification"
+  },
+  "Special Categories of Personal Data": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Special Categories of Personal Data"
+  },
+  "Sensitive Operational Data": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 2,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Sensitive Operational Data"
+  },
+  "Emotion Recognition System": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Emotion Recognition System"
+  },
+  "Biometric Categorisation System": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Biometric Categorisation System"
+  },
+  "Remote Biometric Identification System": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Remote Biometric Identification System"
+  },
+  "Real-Time Remote Biometric Identification System": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9"
+    ],
+    "count": 2,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Real-Time Remote Biometric Identification System"
+  },
+  "Post-Remote Biometric Identification System": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 2,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Post-Remote Biometric Identification System"
+  },
+  "Publicly Accessible Space": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Publicly Accessible Space"
+  },
+  "Law Enforcement Authority": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9"
+    ],
+    "count": 2,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Law Enforcement Authority"
+  },
+  "AI Office": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-4d317a57f8826116be7899af7bef32dd",
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9",
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-64f96fb4c623fd44d4b9931460dfb273",
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f",
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-414727d1a6d237ecc9306035920d4685",
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a",
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783",
+      "chunk-b46993509f7f45efc7114ce53d7712a1",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa",
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 17,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "AI Office"
+  },
+  "National Competent Authority": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-8731e04e59e27f8bf0dad80e14b80dfa"
+    ],
+    "count": 2,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "National Competent Authority"
+  },
+  "Serious Incident": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Serious Incident"
+  },
+  "Personal Data": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a",
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e",
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f"
+    ],
+    "count": 4,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Personal Data"
+  },
+  "Non-Personal Data": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Non-Personal Data"
+  },
+  "Profiling": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 2,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Profiling"
+  },
+  "Real-World Testing Plan": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756",
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f"
+    ],
+    "count": 3,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Real-World Testing Plan"
+  },
+  "Sandbox Plan": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56",
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 2,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Sandbox Plan"
+  },
+  "Commission Decision": {
+    "chunk_ids": [
+      "chunk-7ab695e67854c29668d30835afc8fa56"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Commission Decision"
+  },
+  "Article 71": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd",
+      "chunk-c5974c0c87096acad0b2aac605ef8802",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 3,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Article 71"
+  },
+  "Chapter III": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Chapter III"
+  },
+  "EU database": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "EU database"
+  },
+  "Annex IX": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 2,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Annex IX"
+  },
+  "National authorities": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "National authorities"
+  },
+  "AI systems": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd",
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 2,
+    "update_time": 1779828353,
+    "_id": "AI systems"
+  },
+  "Natural person": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828337,
+    "update_time": 1779828337,
+    "_id": "Natural person"
+  },
+  "Deployers": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd",
+      "chunk-6d534e37e8a91e087b0f7afd91260337",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 4,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Deployers"
+  },
+  "Emotion recognition system": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Emotion recognition system"
+  },
+  "Biometric categorisation system": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Biometric categorisation system"
+  },
+  "Directive (EU) 2016/680": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd",
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-2bf04dc1138e594ddbe71572222dd4f3"
+    ],
+    "count": 5,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Directive (EU) 2016/680"
+  },
+  "Regulations (EU) 2016/679": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Regulations (EU) 2016/679"
+  },
+  "Regulations (EU) 2018/1725": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Regulations (EU) 2018/1725"
+  },
+  "Deep fake": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Deep fake"
+  },
+  "Systemic risk": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Systemic risk"
+  },
+  "Scientific panel": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Scientific panel"
+  },
+  "Directive (EU) 2018/1725": {
+    "chunk_ids": [
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 1,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Directive (EU) 2018/1725"
+  },
+  "Post-Market Monitoring Plan": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-9bbabb917a8fd4d1cab0f28da3292879"
+    ],
+    "count": 3,
+    "update_time": 1779828350,
+    "_id": "Post-Market Monitoring Plan"
+  },
+  "Implementing Act": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 3,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Implementing Act"
+  },
+  "Union Harmonisation Legislation": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-3e2911d860a9f8426e67a536486d6752",
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f",
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa",
+      "chunk-79168f0d206aaba1ef1cc580415c53cf",
+      "chunk-3235bf9304fec9e624bfd76288a19b57"
+    ],
+    "count": 8,
+    "create_time": 1779828338,
+    "update_time": 1779828338,
+    "_id": "Union Harmonisation Legislation"
+  },
+  "ANNEX I": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "ANNEX I"
+  },
+  "Article 98(2)": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 2,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Article 98(2)"
+  },
+  "Article 73": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-64f96fb4c623fd44d4b9931460dfb273",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 4,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Article 73"
+  },
+  "Article 74": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Article 74"
+  },
+  "Compliance Obligations": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Compliance Obligations"
+  },
+  "Union Market": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7"
+    ],
+    "count": 3,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Union Market"
+  },
+  "Regulation (EU) 2019/1020": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390",
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-c5974c0c87096acad0b2aac605ef8802",
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db"
+    ],
+    "count": 5,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Regulation (EU) 2019/1020"
+  },
+  "Union Legislative Instruments": {
+    "chunk_ids": [
+      "chunk-8c4a20c7ba57c9d3c1ba3d58548d1390"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Union Legislative Instruments"
+  },
+  "High-Risk Ai System": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8",
+      "chunk-414727d1a6d237ecc9306035920d4685",
+      "chunk-0c328886326bda8019859ce49acc29cc"
+    ],
+    "count": 3,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "High-Risk Ai System"
+  },
+  "Conformity Assessment Procedure": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8",
+      "chunk-bd5db792306630e07b4579263bafe09f",
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 3,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Conformity Assessment Procedure"
+  },
+  "Ce Marking": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Ce Marking"
+  },
+  "Eu Declaration Of Conformity": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Eu Declaration Of Conformity"
+  },
+  "High-Risk Ai System Placement On The Market": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "High-Risk Ai System Placement On The Market"
+  },
+  "Notified Body": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8",
+      "chunk-2cddb0815e714f4234b0eb77a0886db3",
+      "chunk-bd5db792306630e07b4579263bafe09f",
+      "chunk-8731e04e59e27f8bf0dad80e14b80dfa",
+      "chunk-2bf04dc1138e594ddbe71572222dd4f3",
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece",
+      "chunk-79168f0d206aaba1ef1cc580415c53cf",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1",
+      "chunk-85e5d3aebe76250dd5161e123f94c06c",
+      "chunk-3235bf9304fec9e624bfd76288a19b57"
+    ],
+    "count": 10,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Notified Body"
+  },
+  "Authorised Representative": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8",
+      "chunk-c5974c0c87096acad0b2aac605ef8802",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1"
+    ],
+    "count": 3,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Authorised Representative"
+  },
+  "Importers": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8",
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 2,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Importers"
+  },
+  "Distributors": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8",
+      "chunk-64f96fb4c623fd44d4b9931460dfb273",
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 3,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Distributors"
+  },
+  "Importers Obligation": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Importers Obligation"
+  },
+  "Distributors Obligation": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Distributors Obligation"
+  },
+  "High-Risk Ai System Making Available On The Market": {
+    "chunk_ids": [
+      "chunk-1653367cdfb434518d14a6c8c5b52df8"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "High-Risk Ai System Making Available On The Market"
+  },
+  "European Economic and Social Committee": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "European Economic and Social Committee"
+  },
+  "Article 50": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 2,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Article 50"
+  },
+  "Article 99(1)": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Article 99(1)"
+  },
+  "Article 97": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-3e2911d860a9f8426e67a536486d6752",
+      "chunk-2d5febc258257152890296838762d806",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 4,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Article 97"
+  },
+  "Article 101": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Article 101"
+  },
+  "Section B of Annex I": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a"
+    ],
+    "count": 1,
+    "create_time": 1779828339,
+    "update_time": 1779828339,
+    "_id": "Section B of Annex I"
+  },
+  "Member States": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-6d534e37e8a91e087b0f7afd91260337",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-33b3b690e83a48d4f90c85be3eebb646",
+      "chunk-8731e04e59e27f8bf0dad80e14b80dfa",
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1",
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-b46993509f7f45efc7114ce53d7712a1",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df"
+    ],
+    "count": 14,
+    "update_time": 1779828359,
+    "_id": "Member States"
+  },
+  "Regulation": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa",
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 4,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Regulation"
+  },
+  "Risk Levels": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Risk Levels"
+  },
+  "Voluntary Codes of Conduct": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Voluntary Codes of Conduct"
+  },
+  "SMEs": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a",
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa",
+      "chunk-9d3918796c66f4ec90d4e54c0693276f",
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 7,
+    "update_time": 1779828358,
+    "_id": "SMEs"
+  },
+  "Union Agency": {
+    "chunk_ids": [
+      "chunk-d9ca73b5aa4562e502c8b54d80b9091a"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Union Agency"
+  },
+  "AI Regulatory Sandbox": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756",
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a",
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df"
+    ],
+    "count": 6,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "AI Regulatory Sandbox"
+  },
+  "AI Literacy": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756",
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 2,
+    "update_time": 1779828358,
+    "_id": "AI Literacy"
+  },
+  "Real-World Testing": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Real-World Testing"
+  },
+  "Subject": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Subject"
+  },
+  "Informed Consent": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 2,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Informed Consent"
+  },
+  "Deep Fake": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Deep Fake"
+  },
+  "Widespread Infringement": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Widespread Infringement"
+  },
+  "Critical Infrastructure": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Critical Infrastructure"
+  },
+  "General-Purpose AI Model": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756",
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9",
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f",
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-ef9991e58e018e79ec133e41dd155972",
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 6,
+    "update_time": 1779828351,
+    "_id": "General-Purpose AI Model"
+  },
+  "High-Impact Capabilities": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "High-Impact Capabilities"
+  },
+  "Systemic Risk": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756",
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f"
+    ],
+    "count": 2,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Systemic Risk"
+  },
+  "General-Purpose AI System": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756",
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e"
+    ],
+    "count": 2,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "General-Purpose AI System"
+  },
+  "Floating-Point Operation": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Floating-Point Operation"
+  },
+  "Downstream Provider": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Downstream Provider"
+  },
+  "Public Authority": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756",
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e"
+    ],
+    "count": 2,
+    "update_time": 1779828353,
+    "_id": "Public Authority"
+  },
+  "Death of a Person": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Death of a Person"
+  },
+  "Serious Harm to Health": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Serious Harm to Health"
+  },
+  "Disruption of Critical Infrastructure": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Disruption of Critical Infrastructure"
+  },
+  "Infringement of Obligations": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Infringement of Obligations"
+  },
+  "Harm to Property or Environment": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Harm to Property or Environment"
+  },
+  "Two Member States": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Two Member States"
+  },
+  "Three Member States": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Three Member States"
+  },
+  "Regulation (EU) 2016/679": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756",
+      "chunk-6d534e37e8a91e087b0f7afd91260337",
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-2bf04dc1138e594ddbe71572222dd4f3",
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 6,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Regulation (EU) 2016/679"
+  },
+  "Directive (EU) 2022/2557": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Directive (EU) 2022/2557"
+  },
+  "Scientific Panel": {
+    "chunk_ids": [
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9",
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783",
+      "chunk-b46993509f7f45efc7114ce53d7712a1",
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 4,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Scientific Panel"
+  },
+  "Article 51": {
+    "chunk_ids": [
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Article 51"
+  },
+  "Article 52": {
+    "chunk_ids": [
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Article 52"
+  },
+  "Annex XIII": {
+    "chunk_ids": [
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9",
+      "chunk-1594971bc99373dadcdc53ec98848241"
+    ],
+    "count": 2,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Annex XIII"
+  },
+  "Union Law on Copyright and Related Rights": {
+    "chunk_ids": [
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Union Law on Copyright and Related Rights"
+  },
+  "Directive (EU) 2019/790": {
+    "chunk_ids": [
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Directive (EU) 2019/790"
+  },
+  "Union and national law": {
+    "chunk_ids": [
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Union and national law"
+  },
+  "Free and open-source licence": {
+    "chunk_ids": [
+      "chunk-91245f3945c3d7cc7ebcd77b066b7ef9"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Free and open-source licence"
+  },
+  "Article 2(1)": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Article 2(1)"
+  },
+  "market surveillance authorities": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "market surveillance authorities"
+  },
+  "national competition authorities": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "national competition authorities"
+  },
+  "Article 34(4)": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828340,
+    "update_time": 1779828340,
+    "_id": "Article 34(4)"
+  },
+  "high-risk AI systems": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-846d247ae92c7dbe167abacc02bc54d4",
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 3,
+    "update_time": 1779828360,
+    "_id": "high-risk AI systems"
+  },
+  "Union harmonisation legislation": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-64f96fb4c623fd44d4b9931460dfb273"
+    ],
+    "count": 2,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Union harmonisation legislation"
+  },
+  "Section A": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Section A"
+  },
+  "Article 14": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Article 14"
+  },
+  "Article 83": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 2,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Article 83"
+  },
+  "Article 41": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7"
+    ],
+    "count": 2,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Article 41"
+  },
+  "Article 44": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-49852a3ba29135f33f5a66d5530afe75"
+    ],
+    "count": 2,
+    "update_time": 1779828351,
+    "_id": "Article 44"
+  },
+  "Directive 2013/36/EU": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Directive 2013/36/EU"
+  },
+  "Regulation (EU) No 1024/2013": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Regulation (EU) No 1024/2013"
+  },
+  "European Central Bank": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "European Central Bank"
+  },
+  "Court of Justice of the European Union": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Court of Justice of the European Union"
+  },
+  "Directive (EU) 2016/679": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39",
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 2,
+    "update_time": 1779828351,
+    "_id": "Directive (EU) 2016/679"
+  },
+  "API": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "API"
+  },
+  "Article 14(4), points (d) and (j)": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Article 14(4), points (d) and (j)"
+  },
+  "Directive (EU) 2016/679, Article 41 to 44": {
+    "chunk_ids": [
+      "chunk-6a6be1a6e159da5602b5c2c89e742e39"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Directive (EU) 2016/679, Article 41 to 44"
+  },
+  "High-Risk AI System": {
+    "chunk_ids": [
+      "chunk-64f96fb4c623fd44d4b9931460dfb273",
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-bd5db792306630e07b4579263bafe09f",
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783",
+      "chunk-ef9991e58e018e79ec133e41dd155972",
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1",
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 10,
+    "update_time": 1779828351,
+    "_id": "High-Risk AI System"
+  },
+  "Article 25 - Responsibilities along the AI value chain": {
+    "chunk_ids": [
+      "chunk-64f96fb4c623fd44d4b9931460dfb273"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Article 25 - Responsibilities along the AI value chain"
+  },
+  "Article 26 - Obligations of deployers of high-risk AI systems": {
+    "chunk_ids": [
+      "chunk-64f96fb4c623fd44d4b9931460dfb273"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Article 26 - Obligations of deployers of high-risk AI systems"
+  },
+  "Intellectual Property Rights": {
+    "chunk_ids": [
+      "chunk-64f96fb4c623fd44d4b9931460dfb273"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Intellectual Property Rights"
+  },
+  "Article 16": {
+    "chunk_ids": [
+      "chunk-64f96fb4c623fd44d4b9931460dfb273"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Article 16"
+  },
+  "Law Enforcement Authorities": {
+    "chunk_ids": [
+      "chunk-64f96fb4c623fd44d4b9931460dfb273"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Law Enforcement Authorities"
+  },
+  "Financial Institutions": {
+    "chunk_ids": [
+      "chunk-64f96fb4c623fd44d4b9931460dfb273",
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 2,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Financial Institutions"
+  },
+  "Article 72": {
+    "chunk_ids": [
+      "chunk-64f96fb4c623fd44d4b9931460dfb273",
+      "chunk-2d5febc258257152890296838762d806",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902"
+    ],
+    "count": 3,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Article 72"
+  },
+  "2 February 2025": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "2 February 2025"
+  },
+  "2 August 2025": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "2 August 2025"
+  },
+  "2 August 2027": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "2 August 2027"
+  },
+  "Directive 2006/42/EC": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Directive 2006/42/EC"
+  },
+  "Directive 2009/48/EC": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Directive 2009/48/EC"
+  },
+  "Directive 2013/53/EU": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Directive 2013/53/EU"
+  },
+  "Directive 2014/33/EU": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Directive 2014/33/EU"
+  },
+  "Directive 2014/34/EU": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Directive 2014/34/EU"
+  },
+  "Directive 2014/53/EU": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Directive 2014/53/EU"
+  },
+  "Directive 2014/68/EU": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Directive 2014/68/EU"
+  },
+  "Regulation (EU) 2016/424": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Regulation (EU) 2016/424"
+  },
+  "Regulation (EU) 2016/425": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Regulation (EU) 2016/425"
+  },
+  "Regulation (EU) 2016/426": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Regulation (EU) 2016/426"
+  },
+  "Regulation (EU) 2017/745": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Regulation (EU) 2017/745"
+  },
+  "Regulation (EU) 2017/746": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Regulation (EU) 2017/746"
+  },
+  "Regulation (EC) No 300/2008": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Regulation (EC) No 300/2008"
+  },
+  "Regulation (EU) No 168/2013": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Regulation (EU) No 168/2013"
+  },
+  "Regulation (EU) No 167/2013": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "Regulation (EU) No 167/2013"
+  },
+  "2009/48/EC": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "2009/48/EC"
+  },
+  "17 May 2006": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "17 May 2006"
+  },
+  "18 June 2009": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "18 June 2009"
+  },
+  "20 November 2013": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "20 November 2013"
+  },
+  "26 February 2014": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "26 February 2014"
+  },
+  "16 April 2014": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "16 April 2014"
+  },
+  "15 May 2014": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828341,
+    "update_time": 1779828341,
+    "_id": "15 May 2014"
+  },
+  "9 March 2016": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "9 March 2016"
+  },
+  "5 April 2017": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "5 April 2017"
+  },
+  "11 March 2008": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "11 March 2008"
+  },
+  "15 January 2013": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "15 January 2013"
+  },
+  "5 February 2013": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "5 February 2013"
+  },
+  "23 July 2014": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "23 July 2014"
+  },
+  "Operator": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Operator"
+  },
+  "Subliminal Techniques": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Subliminal Techniques"
+  },
+  "Manipulative or Deceptive Techniques": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Manipulative or Deceptive Techniques"
+  },
+  "Natural Person": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337",
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 2,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Natural Person"
+  },
+  "AI literacy": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "AI literacy"
+  },
+  "Article 4": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Article 4"
+  },
+  "Biometric Categorisation Systems": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Biometric Categorisation Systems"
+  },
+  "Facial Recognition Databases": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Facial Recognition Databases"
+  },
+  "Real-Time Remote Biometric Identification Systems": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337",
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9"
+    ],
+    "count": 2,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Real-Time Remote Biometric Identification Systems"
+  },
+  "Third Countries": {
+    "chunk_ids": [
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f",
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 2,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Third Countries"
+  },
+  "Article 54": {
+    "chunk_ids": [
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Article 54"
+  },
+  "Article 55": {
+    "chunk_ids": [
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 2,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Article 55"
+  },
+  "Article 56": {
+    "chunk_ids": [
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 2,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Article 56"
+  },
+  "AI System": {
+    "chunk_ids": [
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-3e2911d860a9f8426e67a536486d6752",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-2d5febc258257152890296838762d806",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5",
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1",
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e",
+      "chunk-3235bf9304fec9e624bfd76288a19b57"
+    ],
+    "count": 10,
+    "update_time": 1779828359,
+    "_id": "AI System"
+  },
+  "Article 75": {
+    "chunk_ids": [
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 2,
+    "update_time": 1779828357,
+    "_id": "Article 75"
+  },
+  "Article 76": {
+    "chunk_ids": [
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Article 76"
+  },
+  "Article 77": {
+    "chunk_ids": [
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4",
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 3,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Article 77"
+  },
+  "Union Law Protecting Fundamental Rights": {
+    "chunk_ids": [
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Union Law Protecting Fundamental Rights"
+  },
+  "Article 58": {
+    "chunk_ids": [
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e",
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e"
+    ],
+    "count": 2,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Article 58"
+  },
+  "Provider": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1",
+      "chunk-64f96fb4c623fd44d4b9931460dfb273",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-3235bf9304fec9e624bfd76288a19b57"
+    ],
+    "count": 7,
+    "update_time": 1779828358,
+    "_id": "Provider"
+  },
+  "Importer": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Importer"
+  },
+  "Distributor": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Distributor"
+  },
+  "World Union Authority": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "World Union Authority"
+  },
+  "Internal Governance Arrangements": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Internal Governance Arrangements"
+  },
+  "Logs": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Logs"
+  },
+  "Workers' Representatives": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Workers' Representatives"
+  },
+  "Employers": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Employers"
+  },
+  "Union Institutions": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Union Institutions"
+  },
+  "Registration Obligations": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Registration Obligations"
+  },
+  "Union Law on the Protection of Personal Data": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Union Law on the Protection of Personal Data"
+  },
+  "Internal Governance Arrangements Pursuant to Relevant Financial Service Law": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Internal Governance Arrangements Pursuant to Relevant Financial Service Law"
+  },
+  "Data Protection Impact Assessment": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-414727d1a6d237ecc9306035920d4685",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1"
+    ],
+    "count": 3,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Data Protection Impact Assessment"
+  },
+  "Article 13 of the Regulation": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Article 13 of the Regulation"
+  },
+  "Article 35 of the Regulation (EU) 2016/679": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Article 35 of the Regulation (EU) 2016/679"
+  },
+  "Article 27 of Directive (EU) 2016/680": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Article 27 of Directive (EU) 2016/680"
+  },
+  "Union Financial Services Law": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Union Financial Services Law"
+  },
+  "Artificial Intelligence Systems": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Artificial Intelligence Systems"
+  },
+  "Specific Criminal Offence": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828342,
+    "update_time": 1779828342,
+    "_id": "Specific Criminal Offence"
+  },
+  "Decision Based on Output": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Decision Based on Output"
+  },
+  "Police File": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Police File"
+  },
+  "National Data Protection Authority": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "National Data Protection Authority"
+  },
+  "Article 49": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 2,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Article 49"
+  },
+  "Ex Ante": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Ex Ante"
+  },
+  "Targeted Search": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Targeted Search"
+  },
+  "Genuine and Present": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Genuine and Present"
+  },
+  "Genuine and Foreseeable": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Genuine and Foreseeable"
+  },
+  "Administrative Authority": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Administrative Authority"
+  },
+  "European Union Aviation Safety Agency": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "European Union Aviation Safety Agency"
+  },
+  "Annex II - List of criminal offences referred to in Article 5(1), first subparagraph, point (h)(iii)": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Annex II - List of criminal offences referred to in Article 5(1), first subparagraph, point (h)(iii)"
+  },
+  "terrorism": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "terrorism"
+  },
+  "trafficking in human beings": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "trafficking in human beings"
+  },
+  "sexual exploitation of children": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "sexual exploitation of children"
+  },
+  "child pornography": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "child pornography"
+  },
+  "illicit trafficking in narcotic drugs or psychotropic substances": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "illicit trafficking in narcotic drugs or psychotropic substances"
+  },
+  "illicit trafficking in weapons, munitions or explosives": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "illicit trafficking in weapons, munitions or explosives"
+  },
+  "murder": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "murder"
+  },
+  "grievous bodily injury": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "grievous bodily injury"
+  },
+  "illicit trade in human organs or tissue": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "illicit trade in human organs or tissue"
+  },
+  "illicit trafficking in nuclear or radioactive materials": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "illicit trafficking in nuclear or radioactive materials"
+  },
+  "kidnapping": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "kidnapping"
+  },
+  "illegal restraint or hostage-taking": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "illegal restraint or hostage-taking"
+  },
+  "crimes within the jurisdiction of the International Criminal Court": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "crimes within the jurisdiction of the International Criminal Court"
+  },
+  "unlawful seizure of aircraft or ships": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "unlawful seizure of aircraft or ships"
+  },
+  "rape": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "rape"
+  },
+  "environmental crime": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "environmental crime"
+  },
+  "organised or armed robbery": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "organised or armed robbery"
+  },
+  "sabotage": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "sabotage"
+  },
+  "participation in a criminal organisation involved in one or more of the offences listed above": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "participation in a criminal organisation involved in one or more of the offences listed above"
+  },
+  "Annex III - High-risk AI systems referred to in Article 6(2)": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Annex III - High-risk AI systems referred to in Article 6(2)"
+  },
+  "Biometrics": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Biometrics"
+  },
+  "remote biometric identification systems": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "remote biometric identification systems"
+  },
+  "AI systems intended to be used for biometric categorisation": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "AI systems intended to be used for biometric categorisation"
+  },
+  "AI systems intended to be used for emotion recognition": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "AI systems intended to be used for emotion recognition"
+  },
+  "critical digital infrastructure": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "critical digital infrastructure"
+  },
+  "road traffic": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "road traffic"
+  },
+  "supply of water, gas, heating or electricity": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "supply of water, gas, heating or electricity"
+  },
+  "OJ L 60, 2.3.2013, p. 1": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "OJ L 60, 2.3.2013, p. 1"
+  },
+  "OJ L 257, 28.8.2014, p. 146": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "OJ L 257, 28.8.2014, p. 146"
+  },
+  "OJ L 138, 26.5.2016, p. 44": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "OJ L 138, 26.5.2016, p. 44"
+  },
+  "OJ L 151, 14.6.2018, p. 1": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "OJ L 151, 14.6.2018, p. 1"
+  },
+  "OJ L 325, 16.12.2019, p. 1": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "OJ L 325, 16.12.2019, p. 1"
+  },
+  "Regulation (EC) No 715/2007": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Regulation (EC) No 715/2007"
+  },
+  "Regulation (EC) No 595/2009": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Regulation (EC) No 595/2009"
+  },
+  "Annex III - Biometric verification": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Annex III - Biometric verification"
+  },
+  "Annex III - Remote biometric identification systems": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Annex III - Remote biometric identification systems"
+  },
+  "Annex III - Biometric categorisation": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828343,
+    "update_time": 1779828343,
+    "_id": "Annex III - Biometric categorisation"
+  },
+  "Annex III - Emotional recognition": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Annex III - Emotional recognition"
+  },
+  "Annex III - High-risk AI systems in critical digital infrastructure": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Annex III - High-risk AI systems in critical digital infrastructure"
+  },
+  "Annex III - High-risk AI systems in road traffic": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Annex III - High-risk AI systems in road traffic"
+  },
+  "Annex III - High-risk AI systems in supply of water, gas, heating or electricity": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Annex III - High-risk AI systems in supply of water, gas, heating or electricity"
+  },
+  "Seriousness, Probability and Scale of Harm": {
+    "chunk_ids": [
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Seriousness, Probability and Scale of Harm"
+  },
+  "Rights and Freedoms of All Persons": {
+    "chunk_ids": [
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Rights and Freedoms of All Persons"
+  },
+  "Fundamental Rights Impact Assessment": {
+    "chunk_ids": [
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9",
+      "chunk-414727d1a6d237ecc9306035920d4685",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1"
+    ],
+    "count": 3,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Fundamental Rights Impact Assessment"
+  },
+  "Judicial Authority or Independent Administrative Authority": {
+    "chunk_ids": [
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Judicial Authority or Independent Administrative Authority"
+  },
+  "Maritime Surveillance Authority": {
+    "chunk_ids": [
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Maritime Surveillance Authority"
+  },
+  "Data Protection Authority": {
+    "chunk_ids": [
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Data Protection Authority"
+  },
+  "AI Practice": {
+    "chunk_ids": [
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9",
+      "chunk-38169246e9fa46f9e17ff295ac3346d7"
+    ],
+    "count": 2,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "AI Practice"
+  },
+  "Annual Report": {
+    "chunk_ids": [
+      "chunk-0c7d4abb8fe7eae2c8001f5fd07e1ba9"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Annual Report"
+  },
+  "European Harmonised Standard": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "European Harmonised Standard"
+  },
+  "Codes of Practice": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 2,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Codes of Practice"
+  },
+  "Board": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a",
+      "chunk-c5974c0c87096acad0b2aac605ef8802",
+      "chunk-b46993509f7f45efc7114ce53d7712a1",
+      "chunk-ef9991e58e018e79ec133e41dd155972",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df",
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db"
+    ],
+    "count": 7,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Board"
+  },
+  "Trade Secrets": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Trade Secrets"
+  },
+  "Civil Society Organisations": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Civil Society Organisations"
+  },
+  "Market and Technological Developments": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Market and Technological Developments"
+  },
+  "Systemic Risks": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Systemic Risks"
+  },
+  "Key Performance Indicators": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Key Performance Indicators"
+  },
+  "General Validity": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "General Validity"
+  },
+  "Managerial Responsibilities": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Managerial Responsibilities"
+  },
+  "Regulatory Sandboxes": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Regulatory Sandboxes"
+  },
+  "Data Protection Supervisor": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Data Protection Supervisor"
+  },
+  "Role Definition": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Role Definition"
+  },
+  "Technical Support": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Technical Support"
+  },
+  "Examination Procedure": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Examination Procedure"
+  },
+  "AI Value Chain": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "AI Value Chain"
+  },
+  "Obligations": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76",
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 2,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Obligations"
+  },
+  "Specific Objectives": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Specific Objectives"
+  },
+  "Law Enforcement, Border Control, Immigration or Asylum Authorities": {
+    "chunk_ids": [
+      "chunk-3b09e19ff232fc74f764b77ba6bcc3f4"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Law Enforcement, Border Control, Immigration or Asylum Authorities"
+  },
+  "Public Law Bodies": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Public Law Bodies"
+  },
+  "Private Entities Providing Public Services": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Private Entities Providing Public Services"
+  },
+  "Deployer": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685",
+      "chunk-9aeb5afbd1a4b894acf12c446410f902",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1",
+      "chunk-64f96fb4c623fd44d4b9931460dfb273"
+    ],
+    "count": 4,
+    "update_time": 1779828352,
+    "_id": "Deployer"
+  },
+  "Notifying Authority": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685",
+      "chunk-2cddb0815e714f4234b0eb77a0886db3",
+      "chunk-bd5db792306630e07b4579263bafe09f"
+    ],
+    "count": 3,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Notifying Authority"
+  },
+  "Conformity Assessment Body": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685",
+      "chunk-2cddb0815e714f4234b0eb77a0886db3",
+      "chunk-8731e04e59e27f8bf0dad80e14b80dfa"
+    ],
+    "count": 3,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Conformity Assessment Body"
+  },
+  "National Accreditation Body": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "National Accreditation Body"
+  },
+  "Articles 27-30": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685"
+    ],
+    "count": 1,
+    "create_time": 1779828344,
+    "update_time": 1779828344,
+    "_id": "Articles 27-30"
+  },
+  "Article 27": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 27"
+  },
+  "Article 28": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 28"
+  },
+  "Article 29": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 29"
+  },
+  "Article 30": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685",
+      "chunk-2cddb0815e714f4234b0eb77a0886db3"
+    ],
+    "count": 2,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 30"
+  },
+  "Biometric Categorisation": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Biometric Categorisation"
+  },
+  "Emotion Recognition": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Emotion Recognition"
+  },
+  "Critical Digital Infrastructure": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Critical Digital Infrastructure"
+  },
+  "Road Traffic": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Road Traffic"
+  },
+  "Water Supply": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Water Supply"
+  },
+  "Education and Vocational Training": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Education and Vocational Training"
+  },
+  "Employment, Workers Management, and Access to Self-Employment": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Employment, Workers Management, and Access to Self-Employment"
+  },
+  "Essential Private Services and Essential Public Services and Benefits": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Essential Private Services and Essential Public Services and Benefits"
+  },
+  "Law Enforcement": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9",
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 2,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Law Enforcement"
+  },
+  "Migration, Asylum, and Border Control Management": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Migration, Asylum, and Border Control Management"
+  },
+  "Creditworthiness": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Creditworthiness"
+  },
+  "Healthcare Services": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Healthcare Services"
+  },
+  "Police": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Police"
+  },
+  "Firefighters": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Firefighters"
+  },
+  "Medical Aid": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Medical Aid"
+  },
+  "Life and Health Insurance": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Life and Health Insurance"
+  },
+  "Emergency Calls": {
+    "chunk_ids": [
+      "chunk-eafdecc945c96231c70d9a52d9148ae9"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Emergency Calls"
+  },
+  "Single Information Platform": {
+    "chunk_ids": [
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Single Information Platform"
+  },
+  "Confidentiality Provisions": {
+    "chunk_ids": [
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Confidentiality Provisions"
+  },
+  "Data Protection Authorities": {
+    "chunk_ids": [
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Data Protection Authorities"
+  },
+  "Non-High-Risk AI System": {
+    "chunk_ids": [
+      "chunk-38169246e9fa46f9e17ff295ac3346d7"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Non-High-Risk AI System"
+  },
+  "Article 40": {
+    "chunk_ids": [
+      "chunk-38169246e9fa46f9e17ff295ac3346d7"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 40"
+  },
+  "Article 6": {
+    "chunk_ids": [
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 2,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 6"
+  },
+  "Article 80": {
+    "chunk_ids": [
+      "chunk-38169246e9fa46f9e17ff295ac3346d7"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 80"
+  },
+  "Article 81": {
+    "chunk_ids": [
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 2,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 81"
+  },
+  "Article 99": {
+    "chunk_ids": [
+      "chunk-38169246e9fa46f9e17ff295ac3346d7",
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 2,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 99"
+  },
+  "Article 6(3)": {
+    "chunk_ids": [
+      "chunk-38169246e9fa46f9e17ff295ac3346d7"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 6(3)"
+  },
+  "Other Member States": {
+    "chunk_ids": [
+      "chunk-2cddb0815e714f4234b0eb77a0886db3"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Other Member States"
+  },
+  "Article 31": {
+    "chunk_ids": [
+      "chunk-2cddb0815e714f4234b0eb77a0886db3"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 31"
+  },
+  "Article 32": {
+    "chunk_ids": [
+      "chunk-2cddb0815e714f4234b0eb77a0886db3"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Article 32"
+  },
+  "National Law": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "National Law"
+  },
+  "Competent Public Authorities": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Competent Public Authorities"
+  },
+  "Union Institutions, Bodies, Offices or Agencies": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Union Institutions, Bodies, Offices or Agencies"
+  },
+  "Polygraphs": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Polygraphs"
+  },
+  "Asylum": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 2,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Asylum"
+  },
+  "Visa": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828345,
+    "update_time": 1779828345,
+    "_id": "Visa"
+  },
+  "Residence Permits": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Residence Permits"
+  },
+  "Migration": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Migration"
+  },
+  "Border Control Management": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 2,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Border Control Management"
+  },
+  "Travel Documents": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Travel Documents"
+  },
+  "Judicial Authority": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Judicial Authority"
+  },
+  "Democratic Processes": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Democratic Processes"
+  },
+  "Elections": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Elections"
+  },
+  "Referenda": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Referenda"
+  },
+  "Dispute Resolution": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Dispute Resolution"
+  },
+  "Justice": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Justice"
+  },
+  "Political Campaigns": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Political Campaigns"
+  },
+  "AI System Provider": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "AI System Provider"
+  },
+  "Hardware": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Hardware"
+  },
+  "Software Packages": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Software Packages"
+  },
+  "APIs": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646",
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 2,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "APIs"
+  },
+  "Data Requirements": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Data Requirements"
+  },
+  "Training Data Sets": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646",
+      "chunk-0c328886326bda8019859ce49acc29cc",
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece"
+    ],
+    "count": 3,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Training Data Sets"
+  },
+  "Discriminatory Impacts": {
+    "chunk_ids": [
+      "chunk-33b3b690e83a48d4f90c85be3eebb646",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2"
+    ],
+    "count": 2,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Discriminatory Impacts"
+  },
+  "Start-ups": {
+    "chunk_ids": [
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Start-ups"
+  },
+  "Articles": {
+    "chunk_ids": [
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Articles"
+  },
+  "Article 59": {
+    "chunk_ids": [
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Article 59"
+  },
+  "Regulation (EU) 2018/1725": {
+    "chunk_ids": [
+      "chunk-a9a59e2a8b6b3ba9d239dfd8b387900e",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-2bf04dc1138e594ddbe71572222dd4f3",
+      "chunk-4d317a57f8826116be7899af7bef32dd"
+    ],
+    "count": 4,
+    "update_time": 1779828351,
+    "_id": "Regulation (EU) 2018/1725"
+  },
+  "European Artificial Intelligence Board (Board)": {
+    "chunk_ids": [
+      "chunk-3e2911d860a9f8426e67a536486d6752"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "European Artificial Intelligence Board (Board)"
+  },
+  "Third-Party Conformity Assessment": {
+    "chunk_ids": [
+      "chunk-3e2911d860a9f8426e67a536486d6752"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Third-Party Conformity Assessment"
+  },
+  "Article 49(2)": {
+    "chunk_ids": [
+      "chunk-3e2911d860a9f8426e67a536486d6752"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Article 49(2)"
+  },
+  "Article 96": {
+    "chunk_ids": [
+      "chunk-3e2911d860a9f8426e67a536486d6752"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Article 96"
+  },
+  "Delegated Acts": {
+    "chunk_ids": [
+      "chunk-3e2911d860a9f8426e67a536486d6752",
+      "chunk-2d5febc258257152890296838762d806",
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 3,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Delegated Acts"
+  },
+  "Annex III Amended Conditions": {
+    "chunk_ids": [
+      "chunk-3e2911d860a9f8426e67a536486d6752"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Annex III Amended Conditions"
+  },
+  "Health, Safety, and Fundamental Rights": {
+    "chunk_ids": [
+      "chunk-3e2911d860a9f8426e67a536486d6752"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Health, Safety, and Fundamental Rights"
+  },
+  "Reports and Allegations": {
+    "chunk_ids": [
+      "chunk-3e2911d860a9f8426e67a536486d6752"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Reports and Allegations"
+  },
+  "Article 82": {
+    "chunk_ids": [
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Article 82"
+  },
+  "Article 84": {
+    "chunk_ids": [
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Article 84"
+  },
+  "Article 85": {
+    "chunk_ids": [
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Article 85"
+  },
+  "Article 86": {
+    "chunk_ids": [
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Article 86"
+  },
+  "Article 21": {
+    "chunk_ids": [
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Article 21"
+  },
+  "Regulation (EU) 1025/2012": {
+    "chunk_ids": [
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Regulation (EU) 1025/2012"
+  },
+  "CE Marking": {
+    "chunk_ids": [
+      "chunk-c5974c0c87096acad0b2aac605ef8802",
+      "chunk-3235bf9304fec9e624bfd76288a19b57"
+    ],
+    "count": 2,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "CE Marking"
+  },
+  "EU Database": {
+    "chunk_ids": [
+      "chunk-c5974c0c87096acad0b2aac605ef8802",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5",
+      "chunk-3235bf9304fec9e624bfd76288a19b57"
+    ],
+    "count": 3,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "EU Database"
+  },
+  "European Standardisation Organisation": {
+    "chunk_ids": [
+      "chunk-bd5db792306630e07b4579263bafe09f"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "European Standardisation Organisation"
+  },
+  "Official Journal of the European Union": {
+    "chunk_ids": [
+      "chunk-bd5db792306630e07b4579263bafe09f",
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 3,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Official Journal of the European Union"
+  },
+  "Recommendation 2003/361/EC": {
+    "chunk_ids": [
+      "chunk-bd5db792306630e07b4579263bafe09f",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df"
+    ],
+    "count": 2,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Recommendation 2003/361/EC"
+  },
+  "Chapter III, Section 2": {
+    "chunk_ids": [
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece",
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 3,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Chapter III, Section 2"
+  },
+  "Validation and Testing Procedures": {
+    "chunk_ids": [
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Validation and Testing Procedures"
+  },
+  "Accuracy Metrics": {
+    "chunk_ids": [
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Accuracy Metrics"
+  },
+  "Robustness": {
+    "chunk_ids": [
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Robustness"
+  },
+  "Human Oversight Measures": {
+    "chunk_ids": [
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Human Oversight Measures"
+  },
+  "Input Data Specifications": {
+    "chunk_ids": [
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Input Data Specifications"
+  },
+  "Risk Management System": {
+    "chunk_ids": [
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2",
+      "chunk-2d5febc258257152890296838762d806",
+      "chunk-0c328886326bda8019859ce49acc29cc"
+    ],
+    "count": 3,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Risk Management System"
+  },
+  "Perfomance Metrics": {
+    "chunk_ids": [
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Perfomance Metrics"
+  },
+  "Cybersecurity Measures": {
+    "chunk_ids": [
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Cybersecurity Measures"
+  },
+  "Performance Metrics": {
+    "chunk_ids": [
+      "chunk-612e9d6ebed2e9c1601b0ed553a37ca2"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Performance Metrics"
+  },
+  "Data Subjects' Rights": {
+    "chunk_ids": [
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Data Subjects' Rights"
+  },
+  "Sandbox Experimentation": {
+    "chunk_ids": [
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Sandbox Experimentation"
+  },
+  "Union Data Protection Law": {
+    "chunk_ids": [
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Union Data Protection Law"
+  },
+  "Log Records": {
+    "chunk_ids": [
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Log Records"
+  },
+  "AI Project": {
+    "chunk_ids": [
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "AI Project"
+  },
+  "Real World Conditions": {
+    "chunk_ids": [
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Real World Conditions"
+  },
+  "Union-wide Unique Identification Number": {
+    "chunk_ids": [
+      "chunk-73bf9d05df7f156f668cf6ea0decb52f"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Union-wide Unique Identification Number"
+  },
+  "Adverse Impact": {
+    "chunk_ids": [
+      "chunk-2d5febc258257152890296838762d806"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Adverse Impact"
+  },
+  "Persons": {
+    "chunk_ids": [
+      "chunk-2d5febc258257152890296838762d806"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Persons"
+  },
+  "Health": {
+    "chunk_ids": [
+      "chunk-2d5febc258257152890296838762d806"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Health"
+  },
+  "Safety": {
+    "chunk_ids": [
+      "chunk-2d5febc258257152890296838762d806"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Safety"
+  },
+  "Article 9": {
+    "chunk_ids": [
+      "chunk-2d5febc258257152890296838762d806"
+    ],
+    "count": 1,
+    "create_time": 1779828346,
+    "update_time": 1779828346,
+    "_id": "Article 9"
+  },
+  "Article 13": {
+    "chunk_ids": [
+      "chunk-2d5febc258257152890296838762d806"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Article 13"
+  },
+  "Market Surveillance Activities": {
+    "chunk_ids": [
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Market Surveillance Activities"
+  },
+  "Right to Explanation": {
+    "chunk_ids": [
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Right to Explanation"
+  },
+  "Union or National Law": {
+    "chunk_ids": [
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Union or National Law"
+  },
+  "Documented Procedures": {
+    "chunk_ids": [
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Documented Procedures"
+  },
+  "Complaint": {
+    "chunk_ids": [
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Complaint"
+  },
+  "Qualified Alert": {
+    "chunk_ids": [
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783",
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 2,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Qualified Alert"
+  },
+  "Investigation": {
+    "chunk_ids": [
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Investigation"
+  },
+  "Power to Request Documentation": {
+    "chunk_ids": [
+      "chunk-51ee6686c61ba5ea54245e3aa87b1783"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Power to Request Documentation"
+  },
+  "Conformity Assessment Procedures": {
+    "chunk_ids": [
+      "chunk-8731e04e59e27f8bf0dad80e14b80dfa",
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 2,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Conformity Assessment Procedures"
+  },
+  "Sectoral Group of Notified Bodies": {
+    "chunk_ids": [
+      "chunk-8731e04e59e27f8bf0dad80e14b80dfa"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Sectoral Group of Notified Bodies"
+  },
+  "Annex V - EU declaration of conformity": {
+    "chunk_ids": [
+      "chunk-2bf04dc1138e594ddbe71572222dd4f3"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Annex V - EU declaration of conformity"
+  },
+  "Annex VI - Conformity assessment procedure based on internal control": {
+    "chunk_ids": [
+      "chunk-2bf04dc1138e594ddbe71572222dd4f3"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Annex VI - Conformity assessment procedure based on internal control"
+  },
+  "Annex VII - Conformity based on an assessment of the quality management system and an assessment of the technical documentation": {
+    "chunk_ids": [
+      "chunk-2bf04dc1138e594ddbe71572222dd4f3",
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece"
+    ],
+    "count": 2,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Annex VII - Conformity based on an assessment of the quality management system and an assessment of the technical documentation"
+  },
+  "Quality Management System": {
+    "chunk_ids": [
+      "chunk-2bf04dc1138e594ddbe71572222dd4f3",
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece",
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 3,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Quality Management System"
+  },
+  "Union-wide Unique Single Identification Number": {
+    "chunk_ids": [
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5",
+      "chunk-2af337ff23074191f5e5e0bdd26073d1"
+    ],
+    "count": 2,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Union-wide Unique Single Identification Number"
+  },
+  "Data Subject Protection": {
+    "chunk_ids": [
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Data Subject Protection"
+  },
+  "Vulnerable Groups": {
+    "chunk_ids": [
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Vulnerable Groups"
+  },
+  "Artificial Intelligence (AI) System": {
+    "chunk_ids": [
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Artificial Intelligence (AI) System"
+  },
+  "Testing in Real World Conditions": {
+    "chunk_ids": [
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Testing in Real World Conditions"
+  },
+  "Article 61": {
+    "chunk_ids": [
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Article 61"
+  },
+  "Testing Procedures": {
+    "chunk_ids": [
+      "chunk-0c328886326bda8019859ce49acc29cc"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Testing Procedures"
+  },
+  "Validation Data Sets": {
+    "chunk_ids": [
+      "chunk-0c328886326bda8019859ce49acc29cc"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Validation Data Sets"
+  },
+  "Testing Data Sets": {
+    "chunk_ids": [
+      "chunk-0c328886326bda8019859ce49acc29cc"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Testing Data Sets"
+  },
+  "Data Governance": {
+    "chunk_ids": [
+      "chunk-0c328886326bda8019859ce49acc29cc"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Data Governance"
+  },
+  "Risk Management": {
+    "chunk_ids": [
+      "chunk-0c328886326bda8019859ce49acc29cc",
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 2,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Risk Management"
+  },
+  "Risk Management Procedures": {
+    "chunk_ids": [
+      "chunk-0c328886326bda8019859ce49acc29cc"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Risk Management Procedures"
+  },
+  "Development Process": {
+    "chunk_ids": [
+      "chunk-0c328886326bda8019859ce49acc29cc"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Development Process"
+  },
+  "Market Placement": {
+    "chunk_ids": [
+      "chunk-0c328886326bda8019859ce49acc29cc"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Market Placement"
+  },
+  "Union level": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Union level"
+  },
+  "Fines": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Fines"
+  },
+  "Data": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Data"
+  },
+  "Prohibited Practices": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Prohibited Practices"
+  },
+  "Codes of Conduct": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Codes of Conduct"
+  },
+  "Internal Market": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Internal Market"
+  },
+  "Human-Centric AI": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Human-Centric AI"
+  },
+  "Trusted AI": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Trusted AI"
+  },
+  "High-Level Protection": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "High-Level Protection"
+  },
+  "Charter": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Charter"
+  },
+  "Health, Safety, Fundamental Rights": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e",
+      "chunk-2d5febc258257152890296838762d806"
+    ],
+    "count": 2,
+    "update_time": 1779828357,
+    "_id": "Health, Safety, Fundamental Rights"
+  },
+  "Democracy": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Democracy"
+  },
+  "Rule of Law": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Rule of Law"
+  },
+  "Environmental Protection": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Environmental Protection"
+  },
+  "Mass Placement": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Mass Placement"
+  },
+  "Unions Harmonisation Legislation": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Unions Harmonisation Legislation"
+  },
+  "Small and Medium-Sized Enterprises": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Small and Medium-Sized Enterprises"
+  },
+  "SMEs (Small and Medium-Sized Enterprises)": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "SMEs (Small and Medium-Sized Enterprises)"
+  },
+  "Codification Exclusion": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Codification Exclusion"
+  },
+  "Imperative": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Imperative"
+  },
+  "Prohibitions": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Prohibitions"
+  },
+  "Transparency Rules": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Transparency Rules"
+  },
+  "General-Purpose AI Models": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "General-Purpose AI Models"
+  },
+  "Market Monitoring": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Market Monitoring"
+  },
+  "Market Surveillance": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Market Surveillance"
+  },
+  "Governing Rules": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Governing Rules"
+  },
+  "Enforcement": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Enforcement"
+  },
+  "Innovation Support": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Innovation Support"
+  },
+  "SMEs Support": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "SMEs Support"
+  },
+  "Union Regulation": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Union Regulation"
+  },
+  "Union Regulation (2022/2065)": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Union Regulation (2022/2065)"
+  },
+  "Regulation (EU) 2022/2065": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Regulation (EU) 2022/2065"
+  },
+  "Chapter II": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Chapter II"
+  },
+  "Union Regulation (2016/679) and (EU) 2018/1725": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Union Regulation (2016/679) and (EU) 2018/1725"
+  },
+  "(EU) 2018/1725": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "(EU) 2018/1725"
+  },
+  "Directive 2002/58/EC and (EU) 2016/680": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Directive 2002/58/EC and (EU) 2016/680"
+  },
+  "Directive 2002/58/EC": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Directive 2002/58/EC"
+  },
+  "(EU) 2016/680": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "(EU) 2016/680"
+  },
+  "Union Regulation (2022/2065) art 2(4)": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Union Regulation (2022/2065) art 2(4)"
+  },
+  "International Cooperation": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "International Cooperation"
+  },
+  "Civil Liberties": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828347,
+    "update_time": 1779828347,
+    "_id": "Civil Liberties"
+  },
+  "European Union": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e",
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df"
+    ],
+    "count": 2,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "European Union"
+  },
+  "Article 1": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 1"
+  },
+  "Article 2": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 2"
+  },
+  "Article 3": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e",
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 2,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 3"
+  },
+  "Section 2": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972",
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 2,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Section 2"
+  },
+  "Chapter V": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Chapter V"
+  },
+  "Advisory Forum": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972",
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 3,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Advisory Forum"
+  },
+  "Regulation (EU) No 1025/2012": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Regulation (EU) No 1025/2012"
+  },
+  "European Standardisation Organisations": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "European Standardisation Organisations"
+  },
+  "Article 10": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 10"
+  },
+  "Article 24": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 24"
+  },
+  "Article 7": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 7"
+  },
+  "Article 22": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 22"
+  },
+  "Article 67": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 67"
+  },
+  "Standardisation Request": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Standardisation Request"
+  },
+  "Committee": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Committee"
+  },
+  "Chapter V, Sections 2 and 3": {
+    "chunk_ids": [
+      "chunk-ef9991e58e018e79ec133e41dd155972"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Chapter V, Sections 2 and 3"
+  },
+  "Trained Models": {
+    "chunk_ids": [
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Trained Models"
+  },
+  "Union Technical Documentation Assessment Certificate": {
+    "chunk_ids": [
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Union Technical Documentation Assessment Certificate"
+  },
+  "Article 43(4)": {
+    "chunk_ids": [
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 43(4)"
+  },
+  "Annex VIII - Information to be submitted upon the registration of high-risk AI systems in accordance with Article 49": {
+    "chunk_ids": [
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Annex VIII - Information to be submitted upon the registration of high-risk AI systems in accordance with Article 49"
+  },
+  "Annex IV - Technical Documentation Requirements": {
+    "chunk_ids": [
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Annex IV - Technical Documentation Requirements"
+  },
+  "Annex VII-Surveillance": {
+    "chunk_ids": [
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Annex VII-Surveillance"
+  },
+  "Annex VIII-Information to be Submitted": {
+    "chunk_ids": [
+      "chunk-f4bd0831e0cdcbfe10ebd94d84d35ece"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Annex VIII-Information to be Submitted"
+  },
+  "Testing In Real World Conditions": {
+    "chunk_ids": [
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Testing In Real World Conditions"
+  },
+  "Start-Ups": {
+    "chunk_ids": [
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Start-Ups"
+  },
+  "Microenterprises": {
+    "chunk_ids": [
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Microenterprises"
+  },
+  "Article 60(4) point (c)": {
+    "chunk_ids": [
+      "chunk-351f07fc1cfb91436e9dffcf5c8e88df"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 60(4) point (c)"
+  },
+  "Article 79(1)": {
+    "chunk_ids": [
+      "chunk-9aeb5afbd1a4b894acf12c446410f902"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 79(1)"
+  },
+  "Post-Market Monitoring": {
+    "chunk_ids": [
+      "chunk-9aeb5afbd1a4b894acf12c446410f902"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Post-Market Monitoring"
+  },
+  "Article 26(5)": {
+    "chunk_ids": [
+      "chunk-9aeb5afbd1a4b894acf12c446410f902"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 26(5)"
+  },
+  "Logging Capabilities": {
+    "chunk_ids": [
+      "chunk-9aeb5afbd1a4b894acf12c446410f902"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Logging Capabilities"
+  },
+  "User Instructions": {
+    "chunk_ids": [
+      "chunk-9aeb5afbd1a4b894acf12c446410f902"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "User Instructions"
+  },
+  "Conformity Assessment": {
+    "chunk_ids": [
+      "chunk-9aeb5afbd1a4b894acf12c446410f902"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Conformity Assessment"
+  },
+  "Human-Machine Interface Tools": {
+    "chunk_ids": [
+      "chunk-9aeb5afbd1a4b894acf12c446410f902"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Human-Machine Interface Tools"
+  },
+  "SME": {
+    "chunk_ids": [
+      "chunk-9aeb5afbd1a4b894acf12c446410f902"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "SME"
+  },
+  "Local Public Authorities": {
+    "chunk_ids": [
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Local Public Authorities"
+  },
+  "Article 25": {
+    "chunk_ids": [
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 25"
+  },
+  "Article 98": {
+    "chunk_ids": [
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 98"
+  },
+  "Union harmonisation law": {
+    "chunk_ids": [
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Union harmonisation law"
+  },
+  "Interinstitutional Agreement of 13 April 2016": {
+    "chunk_ids": [
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Interinstitutional Agreement of 13 April 2016"
+  },
+  "AI system definition": {
+    "chunk_ids": [
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "AI system definition"
+  },
+  "administrative fines": {
+    "chunk_ids": [
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "administrative fines"
+  },
+  "Member States' rules": {
+    "chunk_ids": [
+      "chunk-06bc0ddf887512f18d0e6f10df7767fa"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Member States' rules"
+  },
+  "Internal Control": {
+    "chunk_ids": [
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Internal Control"
+  },
+  "Dangerous AI Systems": {
+    "chunk_ids": [
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Dangerous AI Systems"
+  },
+  "Annex VI": {
+    "chunk_ids": [
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Annex VI"
+  },
+  "Annex VII": {
+    "chunk_ids": [
+      "chunk-79168f0d206aaba1ef1cc580415c53cf",
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 2,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Annex VII"
+  },
+  "Regulation (EU) 2019/881": {
+    "chunk_ids": [
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Regulation (EU) 2019/881"
+  },
+  "Article 40(4)": {
+    "chunk_ids": [
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 40(4)"
+  },
+  "Article 31(4), (5), (10) and (11)": {
+    "chunk_ids": [
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Article 31(4), (5), (10) and (11)"
+  },
+  "Point 4.3., 4.4., 4.5. and the fifth paragraph of point 4.6": {
+    "chunk_ids": [
+      "chunk-79168f0d206aaba1ef1cc580415c53cf"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Point 4.3., 4.4., 4.5. and the fifth paragraph of point 4.6"
+  },
+  "Autorised Representative": {
+    "chunk_ids": [
+      "chunk-2af337ff23074191f5e5e0bdd26073d1"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Autorised Representative"
+  },
+  "AI Regulatory Sandboxes": {
+    "chunk_ids": [
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 2,
+    "update_time": 1779828354,
+    "_id": "AI Regulatory Sandboxes"
+  },
+  "Fundamental Rights Agency": {
+    "chunk_ids": [
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 2,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "Fundamental Rights Agency"
+  },
+  "ENISA": {
+    "chunk_ids": [
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 2,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "ENISA"
+  },
+  "CEN": {
+    "chunk_ids": [
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 2,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "CEN"
+  },
+  "CENELEC": {
+    "chunk_ids": [
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 2,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "CENELEC"
+  },
+  "ETSI": {
+    "chunk_ids": [
+      "chunk-5f39b62663d19c447e94b4bea8e9c4db",
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 2,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "ETSI"
+  },
+  "article 14": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "article 14"
+  },
+  "high-risk ai system": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "high-risk ai system"
+  },
+  "human oversight": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "human oversight"
+  },
+  "human-machine interface tool": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "human-machine interface tool"
+  },
+  "capacity and limitations": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "capacity and limitations"
+  },
+  "automation bias": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "automation bias"
+  },
+  "stop button": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "stop button"
+  },
+  "annex iii": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "annex iii"
+  },
+  "automation": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "automation"
+  },
+  "accuracy": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "accuracy"
+  },
+  "robustness": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828348,
+    "update_time": 1779828348,
+    "_id": "robustness"
+  },
+  "cybersecurity": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "cybersecurity"
+  },
+  "benchmark": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "benchmark"
+  },
+  "quality management system": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "quality management system"
+  },
+  "article 15": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "article 15"
+  },
+  "article 16": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "article 16"
+  },
+  "apatitioner and testing data sets": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "apatitioner and testing data sets"
+  },
+  "Prohibition": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Prohibition"
+  },
+  "AI Practices": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "AI Practices"
+  },
+  "Administrative Fine": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Administrative Fine"
+  },
+  "EUR 35000000": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "EUR 35000000"
+  },
+  "7 % of its total worldwide annual turnover": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "7 % of its total worldwide annual turnover"
+  },
+  "Offender": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Offender"
+  },
+  "Undertaking": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Undertaking"
+  },
+  "Total Worldwide Annual Turnover": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Total Worldwide Annual Turnover"
+  },
+  "EUR 15000000": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f",
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 2,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "EUR 15000000"
+  },
+  "3 % of its total worldwide annual turnover": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "3 % of its total worldwide annual turnover"
+  },
+  "Article 16 Provisions": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article 16 Provisions"
+  },
+  "Authorised Representatives": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f",
+      "chunk-49852a3ba29135f33f5a66d5530afe75"
+    ],
+    "count": 2,
+    "update_time": 1779828351,
+    "_id": "Authorised Representatives"
+  },
+  "Transparency Obligations": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Transparency Obligations"
+  },
+  "Article 50 Provisions": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article 50 Provisions"
+  },
+  "Intended Adjudication Consideration": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Intended Adjudication Consideration"
+  },
+  "Amount of Administrative Fine": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Amount of Administrative Fine"
+  },
+  "Public Authorities and Bodies": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Public Authorities and Bodies"
+  },
+  "Union Institutions, Bodies, Offices, and Agencies": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Union Institutions, Bodies, Offices, and Agencies"
+  },
+  "Infringement of Union or National Law": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Infringement of Union or National Law"
+  },
+  "Technical and Organisational Measures": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Technical and Organisational Measures"
+  },
+  "Annexes VI and VII": {
+    "chunk_ids": [
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Annexes VI and VII"
+  },
+  "Union Technical Documentation Assessment Certificates": {
+    "chunk_ids": [
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Union Technical Documentation Assessment Certificates"
+  },
+  "Quality Management System Approvals": {
+    "chunk_ids": [
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Quality Management System Approvals"
+  },
+  "Article 43": {
+    "chunk_ids": [
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article 43"
+  },
+  "Law-Enforcement Authorities": {
+    "chunk_ids": [
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Law-Enforcement Authorities"
+  },
+  "Civil Protection Authorities": {
+    "chunk_ids": [
+      "chunk-85e5d3aebe76250dd5161e123f94c06c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Civil Protection Authorities"
+  },
+  "Article 60": {
+    "chunk_ids": [
+      "chunk-1594971bc99373dadcdc53ec98848241",
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 2,
+    "update_time": 1779828357,
+    "_id": "Article 60"
+  },
+  "Annex XI": {
+    "chunk_ids": [
+      "chunk-1594971bc99373dadcdc53ec98848241"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Annex XI"
+  },
+  "Article 53(1), point (a)": {
+    "chunk_ids": [
+      "chunk-1594971bc99373dadcdc53ec98848241"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article 53(1), point (a)"
+  },
+  "Annex XII": {
+    "chunk_ids": [
+      "chunk-1594971bc99373dadcdc53ec98848241"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Annex XII"
+  },
+  "Article 53(1), point (b)": {
+    "chunk_ids": [
+      "chunk-1594971bc99373dadcdc53ec98848241"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article 53(1), point (b)"
+  },
+  "testing in real world conditions": {
+    "chunk_ids": [
+      "chunk-1594971bc99373dadcdc53ec98848241",
+      "chunk-1f37fb5090b015fdcce5136a4e131a7e"
+    ],
+    "count": 2,
+    "update_time": 1779828353,
+    "_id": "testing in real world conditions"
+  },
+  "evaluation strategies": {
+    "chunk_ids": [
+      "chunk-1594971bc99373dadcdc53ec98848241"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "evaluation strategies"
+  },
+  "internal and/or external adversarial testing": {
+    "chunk_ids": [
+      "chunk-1594971bc99373dadcdc53ec98848241"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "internal and/or external adversarial testing"
+  },
+  "Union Safeguard Procedure": {
+    "chunk_ids": [
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Union Safeguard Procedure"
+  },
+  "AI Testing Support": {
+    "chunk_ids": [
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "AI Testing Support"
+  },
+  "ProvidersOfHigh-RiskAISystems": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "ProvidersOfHigh-RiskAISystems"
+  },
+  "High-RiskAISystems": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "High-RiskAISystems"
+  },
+  "Section2": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Section2"
+  },
+  "Article17": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article17"
+  },
+  "Article18": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article18"
+  },
+  "Article43": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article43"
+  },
+  "Article47": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article47"
+  },
+  "Article48": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article48"
+  },
+  "Article49": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article49"
+  },
+  "Article20": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article20"
+  },
+  "Article72": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article72"
+  },
+  "Article73": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Article73"
+  },
+  "NationalCompetentAuthorities": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "NationalCompetentAuthorities"
+  },
+  "FinancialInstitutions": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "FinancialInstitutions"
+  },
+  "Directives(EU)2016-2102": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Directives(EU)2016-2102"
+  },
+  "Directives(EU)2019-882": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Directives(EU)2019-882"
+  },
+  "Union institution, body, office or agency": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Union institution, body, office or agency"
+  },
+  "Annual Total Worldwide Turnover": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Annual Total Worldwide Turnover"
+  },
+  "3 % Fine": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "3 % Fine"
+  },
+  "EUR 1500000": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "EUR 1500000"
+  },
+  "EUR 750000": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "EUR 750000"
+  },
+  "Infringement": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Infringement"
+  },
+  "Document Request": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Document Request"
+  },
+  "Information Request": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Information Request"
+  },
+  "Preliminary Findings": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Preliminary Findings"
+  },
+  "Decision": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828349,
+    "update_time": 1779828349,
+    "_id": "Decision"
+  },
+  "Access to General-purpose AI Model": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "Access to General-purpose AI Model"
+  },
+  "Evaluation": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "Evaluation"
+  },
+  "Commitments": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "Commitments"
+  },
+  "European Parliament and of the Council": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "European Parliament and of the Council"
+  },
+  "Technical Specifications and Procedures": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "Technical Specifications and Procedures"
+  },
+  "Artificial Intelligence systems": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "Artificial Intelligence systems"
+  },
+  "Safety Components": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "Safety Components"
+  },
+  "肠胃不适": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "肠胃不适"
+  },
+  "risk": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "risk"
+  },
+  "provider": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "provider"
+  },
+  "deployer": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "deployer"
+  },
+  "authorised representative": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "authorised representative"
+  },
+  "importer": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "importer"
+  },
+  "distributor": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "distributor"
+  },
+  "operator": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "operator"
+  },
+  "placing on the market": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "placing on the market"
+  },
+  "making available on the market": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "making available on the market"
+  },
+  "putting into service": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "putting into service"
+  },
+  "intended purpose": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "intended purpose"
+  },
+  "reasonably foreseeable misuse": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "reasonably foreseeable misuse"
+  },
+  "safety component": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "safety component"
+  },
+  "instructions for use": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "instructions for use"
+  },
+  "recall of an AI system": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "recall of an AI system"
+  },
+  "withdrawal of an AI system": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "withdrawal of an AI system"
+  },
+  "performance of an AI system": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "performance of an AI system"
+  },
+  "notifying authority": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "notifying authority"
+  },
+  "conformity assessment": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "conformity assessment"
+  },
+  "conformity assessment body": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "conformity assessment body"
+  },
+  "notified body": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "notified body"
+  },
+  "substantial modification": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "substantial modification"
+  },
+  "CE marking": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "CE marking"
+  },
+  "post-market monitoring system": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "post-market monitoring system"
+  },
+  "market surveillance authority": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "market surveillance authority"
+  },
+  "harmonised standard": {
+    "chunk_ids": [
+      "chunk-5303a356a94e477f040c55c8fb0446c1"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "harmonised standard"
+  },
+  "Operators": {
+    "chunk_ids": [
+      "chunk-3235bf9304fec9e624bfd76288a19b57",
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 2,
+    "update_time": 1779828358,
+    "_id": "Operators"
+  },
+  "A Declaration of Conformity": {
+    "chunk_ids": [
+      "chunk-3235bf9304fec9e624bfd76288a19b57"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "A Declaration of Conformity"
+  },
+  "Automatically Generated Logs": {
+    "chunk_ids": [
+      "chunk-49852a3ba29135f33f5a66d5530afe75"
+    ],
+    "count": 1,
+    "create_time": 1779828350,
+    "update_time": 1779828350,
+    "_id": "Automatically Generated Logs"
+  },
+  "Various Legal Acts": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828351,
+    "update_time": 1779828351,
+    "_id": "Various Legal Acts"
+  },
+  "Dependent Injection": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828351,
+    "update_time": 1779828351,
+    "_id": "Dependent Injection"
+  },
+  "Large-scale IT Systems": {
+    "chunk_ids": [
+      "chunk-afaeda77e104462626d5a0e5a16d6f4e"
+    ],
+    "count": 1,
+    "create_time": 1779828351,
+    "update_time": 1779828351,
+    "_id": "Large-scale IT Systems"
+  },
+  "Testing in Real-World Conditions": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828352,
+    "update_time": 1779828352,
+    "_id": "Testing in Real-World Conditions"
+  },
+  "Providers and Deployers": {
+    "chunk_ids": [
+      "chunk-2b51ee903cf22f0e6bd5fac52ed93756"
+    ],
+    "count": 1,
+    "create_time": 1779828352,
+    "update_time": 1779828352,
+    "_id": "Providers and Deployers"
+  },
+  "Providers, Third Parties": {
+    "chunk_ids": [
+      "chunk-64f96fb4c623fd44d4b9931460dfb273"
+    ],
+    "count": 1,
+    "create_time": 1779828352,
+    "update_time": 1779828352,
+    "_id": "Providers, Third Parties"
+  },
+  "Product Manufacturer": {
+    "chunk_ids": [
+      "chunk-64f96fb4c623fd44d4b9931460dfb273"
+    ],
+    "count": 1,
+    "create_time": 1779828352,
+    "update_time": 1779828352,
+    "_id": "Product Manufacturer"
+  },
+  "Annex I - List of Union harmonisation legislation": {
+    "chunk_ids": [
+      "chunk-20e3935f89fd12712570b2f2200d0cbd"
+    ],
+    "count": 1,
+    "create_time": 1779828352,
+    "update_time": 1779828352,
+    "_id": "Annex I - List of Union harmonisation legislation"
+  },
+  "Exploitation of Vulnerabilities": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828353,
+    "update_time": 1779828353,
+    "_id": "Exploitation of Vulnerabilities"
+  },
+  "national competent authorities": {
+    "chunk_ids": [
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f"
+    ],
+    "count": 1,
+    "create_time": 1779828353,
+    "update_time": 1779828353,
+    "_id": "national competent authorities"
+  },
+  "Superevaluation or Classification": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828353,
+    "update_time": 1779828353,
+    "_id": "Superevaluation or Classification"
+  },
+  "Risk Assessments": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828353,
+    "update_time": 1779828353,
+    "_id": "Risk Assessments"
+  },
+  "Emotion Inference": {
+    "chunk_ids": [
+      "chunk-6d534e37e8a91e087b0f7afd91260337"
+    ],
+    "count": 1,
+    "create_time": 1779828353,
+    "update_time": 1779828353,
+    "_id": "Emotion Inference"
+  },
+  "Compliance": {
+    "chunk_ids": [
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f"
+    ],
+    "count": 1,
+    "create_time": 1779828353,
+    "update_time": 1779828353,
+    "_id": "Compliance"
+  },
+  "Confidentiality Obligation": {
+    "chunk_ids": [
+      "chunk-9d94f80b79b953201dabec0b31eb7d1f"
+    ],
+    "count": 1,
+    "create_time": 1779828353,
+    "update_time": 1779828353,
+    "_id": "Confidentiality Obligation"
+  },
+  "Workers": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828353,
+    "update_time": 1779828353,
+    "_id": "Workers"
+  },
+  "Ai Systems": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828354,
+    "update_time": 1779828354,
+    "_id": "Ai Systems"
+  },
+  "Employees": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828354,
+    "update_time": 1779828354,
+    "_id": "Employees"
+  },
+  "Organization": {
+    "chunk_ids": [
+      "chunk-846d247ae92c7dbe167abacc02bc54d4"
+    ],
+    "count": 1,
+    "create_time": 1779828354,
+    "update_time": 1779828354,
+    "_id": "Organization"
+  },
+  "Biometric Identification Systems": {
+    "chunk_ids": [
+      "chunk-bde5afcadc1bd6c8b37d30bd93e7d045"
+    ],
+    "count": 1,
+    "create_time": 1779828354,
+    "update_time": 1779828354,
+    "_id": "Biometric Identification Systems"
+  },
+  "Articles 53 and 55": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828354,
+    "update_time": 1779828354,
+    "_id": "Articles 53 and 55"
+  },
+  "Confidentiality Obligations": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828354,
+    "update_time": 1779828354,
+    "_id": "Confidentiality Obligations"
+  },
+  "Regime Application": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828354,
+    "update_time": 1779828354,
+    "_id": "Regime Application"
+  },
+  "Sandboxes": {
+    "chunk_ids": [
+      "chunk-95f4bd1a2188c8af0ad581dae55c8d76"
+    ],
+    "count": 1,
+    "create_time": 1779828354,
+    "update_time": 1779828354,
+    "_id": "Sandboxes"
+  },
+  "Notification Procedure": {
+    "chunk_ids": [
+      "chunk-414727d1a6d237ecc9306035920d4685"
+    ],
+    "count": 1,
+    "create_time": 1779828355,
+    "update_time": 1779828355,
+    "_id": "Notification Procedure"
+  },
+  "Annual Reports": {
+    "chunk_ids": [
+      "chunk-1ba7997e7cc9a9c81f53126131569e4a"
+    ],
+    "count": 1,
+    "create_time": 1779828355,
+    "update_time": 1779828355,
+    "_id": "Annual Reports"
+  },
+  "European Standardisation Organization": {
+    "chunk_ids": [
+      "chunk-2cddb0815e714f4234b0eb77a0886db3"
+    ],
+    "count": 1,
+    "create_time": 1779828355,
+    "update_time": 1779828355,
+    "_id": "European Standardisation Organization"
+  },
+  "Registration": {
+    "chunk_ids": [
+      "chunk-c5974c0c87096acad0b2aac605ef8802"
+    ],
+    "count": 1,
+    "create_time": 1779828356,
+    "update_time": 1779828356,
+    "_id": "Registration"
+  },
+  "Subcontractor": {
+    "chunk_ids": [
+      "chunk-bd5db792306630e07b4579263bafe09f"
+    ],
+    "count": 1,
+    "create_time": 1779828356,
+    "update_time": 1779828356,
+    "_id": "Subcontractor"
+  },
+  "Provider or Prospective Provider": {
+    "chunk_ids": [
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 1,
+    "create_time": 1779828357,
+    "update_time": 1779828357,
+    "_id": "Provider or Prospective Provider"
+  },
+  "Subject of Testing": {
+    "chunk_ids": [
+      "chunk-89493349bc2eb2b0fa14e08d5114b0a5"
+    ],
+    "count": 1,
+    "create_time": 1779828357,
+    "update_time": 1779828357,
+    "_id": "Subject of Testing"
+  },
+  "Evaluations": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Evaluations"
+  },
+  "Independent Experts": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Independent Experts"
+  },
+  "Access to Model": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Access to Model"
+  },
+  "Implementing Acts": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Implementing Acts"
+  },
+  "Union Ethical Guidelines": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Union Ethical Guidelines"
+  },
+  "Structured Dialogue": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Structured Dialogue"
+  },
+  "Environmental Sustainability": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Environmental Sustainability"
+  },
+  "Measures": {
+    "chunk_ids": [
+      "chunk-b46993509f7f45efc7114ce53d7712a1"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Measures"
+  },
+  "Transparency": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Transparency"
+  },
+  "Innovation": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Innovation"
+  },
+  "Data Protection": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Data Protection"
+  },
+  "Union Regulation (2016/679)": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Union Regulation (2016/679)"
+  },
+  "Union Regulation (2018/1725)": {
+    "chunk_ids": [
+      "chunk-c2f70e1025ba333d8cca73e6ed68029e"
+    ],
+    "count": 1,
+    "create_time": 1779828358,
+    "update_time": 1779828358,
+    "_id": "Union Regulation (2018/1725)"
+  },
+  "provider of high-risk ai system": {
+    "chunk_ids": [
+      "chunk-83433e14f479755aaaf16c96e5408e58"
+    ],
+    "count": 1,
+    "create_time": 1779828360,
+    "update_time": 1779828360,
+    "_id": "provider of high-risk ai system"
+  },
+  "Article 5 Prohibition": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828360,
+    "update_time": 1779828360,
+    "_id": "Article 5 Prohibition"
+  },
+  "Article 23 Provisions": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828360,
+    "update_time": 1779828360,
+    "_id": "Article 23 Provisions"
+  },
+  "Article 24 Provisions": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828360,
+    "update_time": 1779828360,
+    "_id": "Article 24 Provisions"
+  },
+  "Article 26 Provisions": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828360,
+    "update_time": 1779828360,
+    "_id": "Article 26 Provisions"
+  },
+  "Article 31 Provisions": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828360,
+    "update_time": 1779828360,
+    "_id": "Article 31 Provisions"
+  },
+  "Article 33 Provisions": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828360,
+    "update_time": 1779828360,
+    "_id": "Article 33 Provisions"
+  },
+  "Article 34 Provisions": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828360,
+    "update_time": 1779828360,
+    "_id": "Article 34 Provisions"
+  },
+  "Article 22 Provisions": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828360,
+    "update_time": 1779828360,
+    "_id": "Article 22 Provisions"
+  },
+  "Annual Budget": {
+    "chunk_ids": [
+      "chunk-9d3918796c66f4ec90d4e54c0693276f"
+    ],
+    "count": 1,
+    "create_time": 1779828360,
+    "update_time": 1779828360,
+    "_id": "Annual Budget"
+  },
+  "Single Points of Contact": {
+    "chunk_ids": [
+      "chunk-83ff9251c686ac1ddd5ef4f93316b9a8"
+    ],
+    "count": 1,
+    "create_time": 1779828361,
+    "update_time": 1779828361,
+    "_id": "Single Points of Contact"
+  },
+  "Artifact": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828361,
+    "update_time": 1779828361,
+    "_id": "Artifact"
+  },
+  "Directives(EU)2016-2102, Directives(EU)2019-882": {
+    "chunk_ids": [
+      "chunk-6085e0ae0998fbef84e85dbd0e87054c"
+    ],
+    "count": 1,
+    "create_time": 1779828361,
+    "update_time": 1779828361,
+    "_id": "Directives(EU)2016-2102, Directives(EU)2019-882"
+  },
+  "EU fine": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828361,
+    "update_time": 1779828361,
+    "_id": "EU fine"
+  },
+  "Gastrointestinal discomfort": {
+    "chunk_ids": [
+      "chunk-4b23dceb665491f7cc28993744bf6190"
+    ],
+    "count": 1,
+    "create_time": 1779828361,
+    "update_time": 1779828361,
+    "_id": "Gastrointestinal discomfort"
+  }
+}

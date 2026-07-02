@@ -1,0 +1,332 @@
+[
+  {
+    "id": "comp_1",
+    "question": "Does the technical documentation of a high-risk AI system require to provide specifications regarding the required hardware?",
+    "expected_refs": [
+      "Annex IV"
+    ],
+    "keywords": [
+      "hardware",
+      "technical documentation"
+    ]
+  },
+  {
+    "id": "comp_2",
+    "question": "Are AI systems intended for emotion recognition from biometric data always prohibited?",
+    "expected_refs": [
+      "Article 5"
+    ],
+    "keywords": [
+      "emotion recognition",
+      "exception"
+    ]
+  },
+  {
+    "id": "comp_3",
+    "question": "Is an AI that transcribes doctor-patient conversations prohibited? Or is it high-risk as per the use cases of Annex III of the AI Act?",
+    "expected_refs": [
+      "Article 5",
+      "Annex III"
+    ],
+    "keywords": [
+      "not prohibited",
+      "high-risk"
+    ]
+  },
+  {
+    "id": "comp_4",
+    "question": "How does the Regulation define an 'AI system'?",
+    "expected_refs": [
+      "Article 3"
+    ],
+    "keywords": [
+      "machine-based",
+      "autonomy"
+    ]
+  },
+  {
+    "id": "comp_5",
+    "question": "Is social scoring of natural persons by public authorities prohibited under the AI Act?",
+    "expected_refs": [
+      "Article 5"
+    ],
+    "keywords": [
+      "social scoring",
+      "prohibited"
+    ]
+  },
+  {
+    "id": "comp_6",
+    "question": "What must a risk management system for a high-risk AI system include?",
+    "expected_refs": [
+      "Article 9"
+    ],
+    "keywords": [
+      "risk management",
+      "iterative"
+    ]
+  },
+  {
+    "id": "comp_7",
+    "question": "What data governance obligations apply to the training data of high-risk AI systems?",
+    "expected_refs": [
+      "Article 10"
+    ],
+    "keywords": [
+      "data governance",
+      "training"
+    ]
+  },
+  {
+    "id": "comp_8",
+    "question": "Must high-risk AI systems be designed to allow human oversight?",
+    "expected_refs": [
+      "Article 14"
+    ],
+    "keywords": [
+      "human oversight",
+      "natural persons"
+    ]
+  },
+  {
+    "id": "comp_9",
+    "question": "What accuracy, robustness and cybersecurity requirements apply to high-risk AI systems?",
+    "expected_refs": [
+      "Article 15"
+    ],
+    "keywords": [
+      "accuracy",
+      "cybersecurity"
+    ]
+  },
+  {
+    "id": "comp_10",
+    "question": "Do providers of AI systems that interact directly with people, such as chatbots, have to inform users they are interacting with an AI?",
+    "expected_refs": [
+      "Article 50"
+    ],
+    "keywords": [
+      "inform",
+      "natural persons"
+    ]
+  },
+  {
+    "id": "comp_11",
+    "question": "Must AI-generated deepfake image or video content be disclosed as artificially generated?",
+    "expected_refs": [
+      "Article 50"
+    ],
+    "keywords": [
+      "deep fake",
+      "artificially generated"
+    ]
+  },
+  {
+    "id": "comp_12",
+    "question": "What obligations apply to providers of general-purpose AI models?",
+    "expected_refs": [
+      "Article 53"
+    ],
+    "keywords": [
+      "general-purpose",
+      "documentation"
+    ]
+  },
+  {
+    "id": "comp_13",
+    "question": "When is a general-purpose AI model considered to present a systemic risk?",
+    "expected_refs": [
+      "Article 51"
+    ],
+    "keywords": [
+      "systemic risk",
+      "high-impact"
+    ]
+  },
+  {
+    "id": "comp_14",
+    "question": "What administrative fines apply to non-compliance with the prohibited AI practices?",
+    "expected_refs": [
+      "Article 99"
+    ],
+    "keywords": [
+      "fines",
+      "prohibited"
+    ]
+  },
+  {
+    "id": "comp_15",
+    "question": "Which conformity assessment procedures can a provider follow for a high-risk AI system listed in Annex III?",
+    "expected_refs": [
+      "Article 43"
+    ],
+    "keywords": [
+      "conformity assessment",
+      "notified body"
+    ]
+  },
+  {
+    "id": "comp_16",
+    "question": "Which AI systems are classified as high-risk under the AI Act?",
+    "expected_refs": [
+      "Article 6",
+      "Annex III"
+    ],
+    "keywords": [
+      "high-risk",
+      "classification"
+    ]
+  },
+  {
+    "id": "comp_17",
+    "question": "What information must the EU declaration of conformity for a high-risk AI system contain?",
+    "expected_refs": [
+      "Article 47"
+    ],
+    "keywords": [
+      "declaration of conformity"
+    ]
+  },
+  {
+    "id": "comp_18",
+    "question": "What post-market monitoring obligations apply to providers of high-risk AI systems?",
+    "expected_refs": [
+      "Article 72"
+    ],
+    "keywords": [
+      "post-market monitoring"
+    ]
+  },
+  {
+    "id": "comp_19",
+    "question": "Does the AI Act apply to AI systems developed and used exclusively for military, defence or national security purposes?",
+    "expected_refs": [
+      "Article 2"
+    ],
+    "keywords": [
+      "military",
+      "national security",
+      "scope"
+    ]
+  },
+  {
+    "id": "comp_20",
+    "question": "Must providers and deployers ensure a sufficient level of AI literacy among their staff?",
+    "expected_refs": [
+      "Article 4"
+    ],
+    "keywords": [
+      "AI literacy",
+      "staff"
+    ]
+  },
+  {
+    "id": "comp_21",
+    "question": "What are the obligations of providers of high-risk AI systems?",
+    "expected_refs": [
+      "Article 16"
+    ],
+    "keywords": [
+      "obligations",
+      "providers",
+      "high-risk"
+    ]
+  },
+  {
+    "id": "comp_22",
+    "question": "Are providers of high-risk AI systems required to put a quality management system in place?",
+    "expected_refs": [
+      "Article 17"
+    ],
+    "keywords": [
+      "quality management system"
+    ]
+  },
+  {
+    "id": "comp_23",
+    "question": "What obligations apply to deployers of high-risk AI systems?",
+    "expected_refs": [
+      "Article 26"
+    ],
+    "keywords": [
+      "deployers",
+      "obligations"
+    ]
+  },
+  {
+    "id": "comp_24",
+    "question": "Must a high-risk AI system be registered in the EU database before it is placed on the market?",
+    "expected_refs": [
+      "Article 49"
+    ],
+    "keywords": [
+      "registration",
+      "EU database"
+    ]
+  },
+  {
+    "id": "comp_25",
+    "question": "What additional obligations apply to providers of general-purpose AI models with systemic risk?",
+    "expected_refs": [
+      "Article 55"
+    ],
+    "keywords": [
+      "systemic risk",
+      "general-purpose AI"
+    ]
+  },
+  {
+    "id": "comp_26",
+    "question": "What is the role of codes of practice for providers of general-purpose AI models?",
+    "expected_refs": [
+      "Article 56"
+    ],
+    "keywords": [
+      "codes of practice"
+    ]
+  },
+  {
+    "id": "comp_27",
+    "question": "What measures does the AI Act provide to support SMEs and start-ups?",
+    "expected_refs": [
+      "Article 62"
+    ],
+    "keywords": [
+      "SMEs",
+      "start-ups"
+    ]
+  },
+  {
+    "id": "comp_28",
+    "question": "Must providers of high-risk AI systems report serious incidents to the competent authorities?",
+    "expected_refs": [
+      "Article 73"
+    ],
+    "keywords": [
+      "serious incident",
+      "report"
+    ]
+  },
+  {
+    "id": "comp_29",
+    "question": "Can a person lodge a complaint with a market surveillance authority about an AI system?",
+    "expected_refs": [
+      "Article 85"
+    ],
+    "keywords": [
+      "complaint",
+      "market surveillance"
+    ]
+  },
+  {
+    "id": "comp_30",
+    "question": "Does a person affected by a decision of a high-risk AI system have a right to an explanation?",
+    "expected_refs": [
+      "Article 86"
+    ],
+    "keywords": [
+      "right to explanation",
+      "decision"
+    ]
+  }
+]

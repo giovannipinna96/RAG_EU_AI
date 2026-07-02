@@ -1,0 +1,41 @@
+# Portable single-node deployment of the EU AI Act RAG.
+#
+#   api    — FastAPI (CPU). Embedding/reranker weights and the retrieval stores
+#            (embedded Qdrant + BM25 + LightRAG) are baked into the image.
+#   redis  — persistent semantic cache (survives restarts via a named volume).
+#            The app also has an in-process fallback if Redis is removed.
+#
+# The LLM is EXTERNAL: set SGLANG_BASE_URL in .env.docker to an OpenAI-compatible
+# endpoint reachable from this host. Nothing else needs editing.
+#
+#   cp .env.docker.example .env.docker   # then set SGLANG_BASE_URL
+#   docker compose up --build            # first build downloads torch + models
+#
+# See DEPLOY.md for the full procedure (including how to transfer the prebuilt
+# indices — they are gitignored, so a plain `git clone` will NOT contain them).
+services:
+  api:
+    build: .
+    image: eu-ai-act-rag:latest
+    ports:
+      - "8000:8000"
+    env_file: .env.docker
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    restart: unless-stopped
+
+volumes:
+  redis_data:

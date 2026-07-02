@@ -1,0 +1,44 @@
+# Build-context excludes for the portable API image (docker build .).
+# Keep data/qdrant, bm25_index, lightrag_data — they are baked into the image.
+
+# Python envs / caches
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Env files — config is injected by compose via env_file (.env.docker), never
+# baked in. Excluding the cluster's live .env avoids leaking the lab LLM IP.
+.env*
+
+# VCS / editor
+.git/
+.gitignore
+.claude/
+
+# Local agent-runtime artifacts (not needed at runtime)
+ruvector.db
+agentdb.rvf
+agentdb.rvf.lock
+
+# HPC / SLURM artifacts
+*.sif
+slurm/logs/
+slurm/*.out
+slurm/*.err
+
+# Raw/intermediate corpus (only the built stores are needed)
+data/raw/
+data/processed/
+data/redis/
+data/redis_eval/
+
+# Eval output
+eval/results.json
+
+# Docs / dev-only trees not needed inside the image
+docs/
+tests/

@@ -1,0 +1,10 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: "rag-api"
+    static_configs:
+      # On Demetra, replace with the compute node hostname running the API,
+      # e.g. ["lovelace-01:8000"]. Under docker-compose this is the service name.
+      - targets: ["api:8000"]
+    metrics_path: /metrics
