@@ -12,6 +12,7 @@ Relevant columns: ``language``, ``chunk_type`` (``article_full`` | ``paragraph``
 
 from __future__ import annotations
 
+import re
 from collections import defaultdict
 
 import structlog
@@ -81,8 +82,31 @@ class HFDatasetLoader:
 
         nodes: list[ArticleNode] = []
         for annex in sorted(sections, key=self._roman_key):
-            parts = sorted(sections[annex], key=lambda r: r.get("annex_section") or "")
+            # Numeric ordering, not lexicographic: a future annex with 10+ points
+            # would otherwise assemble as 1, 10, 11, 2, ... Items whose section is
+            # not numeric sort last, keeping a deterministic order.
+            parts = sorted(
+                sections[annex],
+                key=lambda r: (
+                    self._section_no(r) is None,
+                    self._section_no(r) or 0,
+                    str(r.get("annex_section") or ""),
+                ),
+            )
             full_text = "\n\n".join((p["text"] or "").strip() for p in parts)
+            # Mirror `_build_articles`: give each annex point a citable ref so the
+            # chunker emits one SMALL chunk per point (carrying `paragraph_refs`)
+            # instead of blind sliding windows. Without this the finest reference
+            # the system can ever cite for an annex is the bare "Annex IV".
+            paragraphs = [
+                {
+                    "num": str(self._section_no(p)),
+                    "ref": f"Annex {annex}.{self._section_no(p)}",
+                    "text": (p["text"] or "").strip(),
+                }
+                for p in parts
+                if self._section_no(p) is not None
+            ]
             nodes.append(
                 ArticleNode(
                     article_id=f"Annex {annex}",
@@ -90,10 +114,21 @@ class HFDatasetLoader:
                     number=annex,
                     title=f"Annex {annex}",
                     full_text=full_text,
-                    paragraphs=[],
+                    paragraphs=paragraphs,
                 )
             )
         return nodes
+
+    @staticmethod
+    def _section_no(row: dict) -> int | None:
+        """Leading integer of ``annex_section``, or None when it is not numeric.
+
+        The upstream column is a string ("1", "2", ...). Anything that does not
+        start with digits yields None, so the point is kept in ``full_text`` but
+        never produces a reference we could not cite in the required format.
+        """
+        m = re.match(r"\s*(\d+)", str(row.get("annex_section") or ""))
+        return int(m.group(1)) if m else None
 
     @staticmethod
     def _title(text: str) -> str:

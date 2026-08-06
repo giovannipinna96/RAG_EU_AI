@@ -78,6 +78,12 @@ class Settings(BaseSettings):
     # dominates the rerank prefill cost (candidates × snippet). Shrink it (and/or
     # rerank_candidate_chunks) for a cheaper "voting light".
     rerank_llm_snippet_chars: int = 3000
+    # Per-chunk budget in the ANSWER prompt. The window is centered on the query
+    # (see src/snippet.py), so a provision whose operative sentence sits deep in
+    # a long text still reaches the model — a fixed prefix missed it. Annexes are
+    # the reason this is not small: Annex III and IV are ~8.5K chars each, so the
+    # old 1500-char prefix dropped ~80% of them. Costs prefill (top_k × budget).
+    generator_snippet_chars: int = 3000
 
     # --- BM25 ---
     bm25_index_dir: str = "./bm25_index"

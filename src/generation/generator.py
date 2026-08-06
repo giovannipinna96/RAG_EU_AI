@@ -8,6 +8,7 @@ import structlog
 from openai import OpenAI
 
 from ..config import settings
+from ..snippet import adaptive_snippet
 from .normalizer import ReferenceNormalizer
 from .prompts import SYSTEM_PROMPT
 
@@ -25,7 +26,14 @@ class Generator:
         chunks: list[dict],
         explicit_refs: list[str] | None = None,
     ) -> dict:
-        context = self._build_context(chunks)
+        # Center each provision's window on the live question. The API contract
+        # guarantees the last turn is the user's, but scan back anyway so a
+        # trailing assistant turn cannot blank the centering.
+        query = next(
+            (m.get("content", "") for m in reversed(history) if m.get("role") == "user"),
+            "",
+        )
+        context = self._build_context(chunks, query)
         messages = [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "system", "content": f"RELEVANT PROVISIONS:\n\n{context}"},
@@ -143,18 +151,31 @@ class Generator:
                 t = t.rstrip()[:-3]
         return t.strip()
 
-    def _build_context(self, chunks: list[dict]) -> str:
+    def _build_context(self, chunks: list[dict], query: str = "") -> str:
         seen: set[str] = set()
         parts: list[str] = []
         for c in chunks:
-            aid = c.get("article_id", "")
-            # Only dedup chunks that carry an article_id. BM25-only hits have no
-            # article_id (the lexical index stores raw text) — keep them all
-            # rather than collapsing every unlabeled hit into one.
+            # Label with the finest reference the chunk carries: a SMALL chunk
+            # pins exactly one provision ("Annex IV.2"), so showing that instead
+            # of the parent id is what lets the model cite the sub-point it is
+            # actually reading. Large chunks list every ref they span — no single
+            # label applies, so they stay on the parent id.
+            refs = c.get("paragraph_refs") or []
+            aid = refs[0] if len(refs) == 1 else c.get("article_id", "")
+            # Dedup on that same label, not on article_id: distinct points of one
+            # annex share an article_id, and keying on it would collapse them to
+            # the first. BM25-only hits carry no label at all (the lexical index
+            # stores raw text) — keep them all rather than merging into one.
             if aid and aid in seen:
                 continue
             if aid:
                 seen.add(aid)
-            text = c.get("content_raw", "")[:1500]
+            # Window centered on the query rather than a fixed prefix: the
+            # operative sentence of a long provision (Annexes run to ~8.5K chars)
+            # is routinely past any prefix we can afford. Empty query degrades to
+            # the prefix, which keeps the no-history call sites working.
+            text = adaptive_snippet(
+                c.get("content_raw", ""), query, settings.generator_snippet_chars
+            )
             parts.append(f"--- {aid or 'Provision'} ---\n{text}")
         return "\n\n".join(parts)

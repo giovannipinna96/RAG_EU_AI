@@ -11,6 +11,7 @@ from __future__ import annotations
 import json
 from types import SimpleNamespace
 
+from src.config import settings
 from src.generation.generator import Generator
 
 # ---------------------------------------------------------------------------
@@ -145,14 +146,82 @@ def test_build_context_preserves_order_of_distinct_articles():
     assert pos6 < pos5
 
 
-def test_build_context_truncates_content_to_1500_chars():
+def test_build_context_truncates_content_to_the_configured_budget():
     gen = Generator(client=_stub_client("{}"))
-    long_text = "x" * 3000
+    budget = settings.generator_snippet_chars
+    long_text = "x" * (budget * 2)
     chunks = [{"article_id": "Article 7", "content_raw": long_text}]
+    # No query -> no centering keyword, so this degrades to a plain prefix.
     ctx = gen._build_context(chunks)
-    # The truncated portion is 1500 chars; the header adds overhead
-    assert "x" * 1500 in ctx
-    assert "x" * 1501 not in ctx
+    assert "x" * budget in ctx
+    assert "x" * (budget + 1) not in ctx
+
+
+def test_build_context_centers_window_on_the_query():
+    """A provision's operative sentence past the budget must still reach the LLM.
+
+    This is the Annex case: Annex III/IV run to ~8.5K chars, so a fixed prefix
+    drops the part that actually answers the question.
+    """
+    gen = Generator(client=_stub_client("{}"))
+    budget = settings.generator_snippet_chars
+    buried = "the description of the hardware on which the system runs"
+    long_text = ("filler " * budget) + buried + (" tail" * 200)
+    chunks = [{"article_id": "Annex IV", "content_raw": long_text}]
+
+    ctx = gen._build_context(chunks, query="What hardware description is required?")
+
+    assert buried in ctx
+    # ...and the fixed prefix would indeed have missed it.
+    assert buried not in long_text[:budget]
+
+
+def test_build_context_labels_single_ref_chunks_with_the_sub_point():
+    """A chunk pinning one provision is shown under that provision's ref.
+
+    The model cites what it is shown; labelling an annex point "Annex IV" is
+    what kept references at annex granularity.
+    """
+    gen = Generator(client=_stub_client("{}"))
+    chunks = [
+        {
+            "article_id": "Annex IV",
+            "paragraph_refs": ["Annex IV.2"],
+            "content_raw": "A detailed description of the elements.",
+        }
+    ]
+    ctx = gen._build_context(chunks)
+    assert "--- Annex IV.2 ---" in ctx
+
+
+def test_build_context_keeps_distinct_points_of_one_annex():
+    """Dedup must key on the sub-point, not the shared parent id."""
+    gen = Generator(client=_stub_client("{}"))
+    def _point(n: int, text: str) -> dict:
+        return {
+            "article_id": "Annex IV",
+            "paragraph_refs": [f"Annex IV.{n}"],
+            "content_raw": text,
+        }
+
+    chunks = [_point(1, "First point."), _point(2, "Second point.")]
+    ctx = gen._build_context(chunks)
+    assert "First point." in ctx
+    assert "Second point." in ctx
+
+
+def test_build_context_large_chunk_spanning_many_refs_keeps_parent_id():
+    """No single sub-point labels a whole article, so it stays on the parent."""
+    gen = Generator(client=_stub_client("{}"))
+    chunks = [
+        {
+            "article_id": "Article 5",
+            "paragraph_refs": ["Article 5.1", "Article 5.2"],
+            "content_raw": "Whole article text.",
+        }
+    ]
+    ctx = gen._build_context(chunks)
+    assert "--- Article 5 ---" in ctx
 
 
 def test_build_context_empty_chunks_returns_empty_string():

@@ -7,10 +7,8 @@ These tests are offline -- no torch / bm25s / sentence-transformers needed.
 
 from __future__ import annotations
 
-from src.retrieval.triple_retriever import (
-    _LLM_RERANK_SNIPPET_CHARS,
-    _adaptive_snippet,
-)
+from src.retrieval.triple_retriever import _LLM_RERANK_SNIPPET_CHARS
+from src.snippet import adaptive_snippet as _adaptive_snippet
 
 # ---------------------------------------------------------------------------
 # Trivial cases

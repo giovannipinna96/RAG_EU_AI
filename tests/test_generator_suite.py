@@ -4,7 +4,7 @@ Coverage targets:
 - _parse_json: valid, invalid, None, empty, whitespace, partial keys, nested,
   arrays, unicode, large payloads, unexpected types.
 - _build_context: dedup with article_id, multiple empty-article_id (BM25) kept,
-  1500-char truncation, "Provision" label, ordering, missing fields, empty list.
+  snippet-budget truncation, "Provision" label, ordering, missing fields, empty list.
 - generate(): end-to-end with stub client; reference normalisation applied;
   all keys present; malformed JSON -> safe defaults; partial key handling.
 
@@ -18,7 +18,10 @@ from types import SimpleNamespace
 
 import pytest
 
+from src.config import settings
 from src.generation.generator import Generator
+
+BUDGET = settings.generator_snippet_chars
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -337,42 +340,48 @@ class TestBuildContextDedup:
 
 
 class TestBuildContextTruncation:
-    def test_content_truncated_at_1500_chars(self):
-        long_text = "a" * 3000
+    """Budget behaviour with no query — the window degrades to a plain prefix.
+
+    Query-centered windowing is covered in tests/test_generator.py; here we pin
+    the budget itself, which is now ``settings.generator_snippet_chars``.
+    """
+
+    def test_content_truncated_at_the_configured_budget(self):
+        long_text = "a" * (BUDGET * 2)
         ctx = _gen()._build_context([_chunk("Article 1", long_text)])
-        assert "a" * 1500 in ctx
-        assert "a" * 1501 not in ctx
+        assert "a" * BUDGET in ctx
+        assert "a" * (BUDGET + 1) not in ctx
 
-    def test_content_exactly_1500_not_truncated(self):
-        text = "b" * 1500
+    def test_content_exactly_at_budget_not_truncated(self):
+        text = "b" * BUDGET
         ctx = _gen()._build_context([_chunk("Article 2", text)])
-        assert "b" * 1500 in ctx
+        assert "b" * BUDGET in ctx
 
-    def test_content_under_1500_not_truncated(self):
+    def test_content_under_budget_not_truncated(self):
         text = "c" * 500
         ctx = _gen()._build_context([_chunk("Article 3", text)])
         assert "c" * 500 in ctx
 
     def test_truncation_applies_to_each_chunk_independently(self):
         chunks = [
-            _chunk("Article 4", "d" * 2000),
-            _chunk("Article 5", "e" * 2000),
+            _chunk("Article 4", "d" * (BUDGET + 500)),
+            _chunk("Article 5", "e" * (BUDGET + 500)),
         ]
         ctx = _gen()._build_context(chunks)
         # Both are truncated independently
-        assert "d" * 1500 in ctx
-        assert "d" * 1501 not in ctx
-        assert "e" * 1500 in ctx
-        assert "e" * 1501 not in ctx
+        assert "d" * BUDGET in ctx
+        assert "d" * (BUDGET + 1) not in ctx
+        assert "e" * BUDGET in ctx
+        assert "e" * (BUDGET + 1) not in ctx
 
     def test_empty_content_raw_produces_empty_body(self):
         ctx = _gen()._build_context([_chunk("Article 6", "")])
         assert "--- Article 6 ---" in ctx
 
-    def test_exactly_1499_chars_preserved_in_full(self):
-        text = "f" * 1499
+    def test_just_under_budget_preserved_in_full(self):
+        text = "f" * (BUDGET - 1)
         ctx = _gen()._build_context([_chunk("Article 7", text)])
-        assert "f" * 1499 in ctx
+        assert "f" * (BUDGET - 1) in ctx
 
 
 # ---------------------------------------------------------------------------

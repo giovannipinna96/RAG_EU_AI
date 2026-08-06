@@ -7,7 +7,6 @@ off-loaded with ``asyncio.to_thread`` so the event loop stays responsive.
 from __future__ import annotations
 
 import asyncio
-import re
 from typing import Any
 
 import structlog
@@ -15,6 +14,7 @@ from qdrant_client.models import FieldCondition, Filter, MatchValue
 
 from ..clients import get_embedding_model, make_qdrant_client
 from ..config import settings
+from ..snippet import adaptive_snippet
 from .article_matcher import ArticleMatcher
 from .bm25_index import BM25Index
 from .query_engine import ProcessedQuery
@@ -25,57 +25,15 @@ log = structlog.get_logger(__name__)
 # Maximum candidates passed to LLM rerank (keeps prompt small).
 _LLM_RERANK_MAX_CANDIDATES = 8
 # Snippet length per candidate sent to the LLM rerank. Combined with the
-# adaptive-centering in `_adaptive_snippet` this is the size of the window
+# adaptive-centering in `adaptive_snippet` this is the size of the window
 # centered on the most informative query-keyword match in the chunk, not the
 # first N chars. 3000 with adaptive centering covers Art 5(1)(f) (emotion-
 # recognition prohibition, offset ~2763) and Art 50(4) (deepfake disclosure,
 # offset ~1022) on the actual corpus; with 8 candidates the prompt stays
 # below ~24K chars (~6K tokens).
 _LLM_RERANK_SNIPPET_CHARS = 3000
-# Drop query stopwords shorter than this when picking the centering keyword.
-_LLM_RERANK_KEYWORD_MIN_LEN = 4
 # Max tokens for the LLM rerank response (a short list of numbers/ids).
 _LLM_RERANK_MAX_TOKENS = 120
-
-
-def _adaptive_snippet(text: str, query: str, length: int) -> str:
-    """Return up to *length* chars from *text*, centered on the best query match.
-
-    Picks the earliest in-text occurrence of any query content-word
-    (``\\w+`` of length >= ``_LLM_RERANK_KEYWORD_MIN_LEN``) and centers a
-    *length*-char window around it. If the text already fits in *length*
-    chars, returns the whole text. If no query word matches, falls back to
-    ``text[:length]`` (legacy behavior). Window boundaries that hit the
-    chunk boundary are shifted to keep the full *length* whenever possible.
-    Truncation is marked with ``[...]`` so the LLM sees the context is
-    partial. Centering is purely lexical -- no embeddings, no tokenizer.
-    """
-    if length <= 0 or not text:
-        return ""
-    if len(text) <= length:
-        return text
-
-    words = [
-        w
-        for w in re.findall(r"\w+", query.lower())
-        if len(w) >= _LLM_RERANK_KEYWORD_MIN_LEN
-    ]
-    text_lower = text.lower()
-    hits = [text_lower.find(w) for w in words]
-    hits = [h for h in hits if h >= 0]
-    if not hits:
-        return text[:length] + "[...]"
-
-    center = min(hits)  # earliest match -- usually the start of the relevant paragraph
-    half = length // 2
-    start = max(0, center - half)
-    end = min(len(text), start + length)
-    start = max(0, end - length)  # shift back if we hit the right boundary
-
-    snippet = text[start:end]
-    prefix = "[...]" if start > 0 else ""
-    suffix = "[...]" if end < len(text) else ""
-    return f"{prefix}{snippet}{suffix}"
 
 
 class TripleRetriever:
@@ -358,7 +316,7 @@ class TripleRetriever:
             snippet_chars = getattr(
                 settings, "rerank_llm_snippet_chars", _LLM_RERANK_SNIPPET_CHARS
             )
-            snippet = _adaptive_snippet(text, query, snippet_chars).replace("\n", " ")
+            snippet = adaptive_snippet(text, query, snippet_chars).replace("\n", " ")
             lines.append(f"{i}. [{aid}] {snippet}")
         lines.append("")
         lines.append("Direct-answer ranking (most directly first):")
